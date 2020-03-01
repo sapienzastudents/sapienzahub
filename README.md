@@ -2,6 +2,8 @@
 
 ---
 
+Trigger
+
 Example [Hugo] website using GitLab Pages.
 
 Learn more about GitLab Pages at https://pages.gitlab.io and the official
