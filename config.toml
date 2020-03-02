@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/sapienzahub/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
