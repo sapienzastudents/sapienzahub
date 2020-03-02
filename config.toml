@@ -1,12 +1,20 @@
-baseURL = "https://example.com"
-title   = "Hello Friend NG"
-
+baseurl = "https://pages.gitlab.io/hugo/"
+contentdir    = "content"
+layoutdir     = "layouts"
+publishdir    = "public"
+title = "Sapienza Hub"
+canonifyurls  = true
 DefaultContentLanguage = "en"
 
 theme = "hello-friend-ng"
 
-PygmentsCodeFences = true
+metaDataFormat = "yaml"
+pygmentsUseClasses = true
+pygmentCodeFences = true
 PygmentsStyle = "monokai"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
 
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
@@ -38,7 +46,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "Sapienza Hub"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -88,7 +96,7 @@ disableHugoGeneratorInject = false
     theme = "#252627"
 
   [params.logo]
-    logoText     = "$ cd /home/"
+    logoText     = "Sapienza Hub"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -98,25 +106,14 @@ disableHugoGeneratorInject = false
     # logoCursorAnimate  = "2s"
 
   # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:contact@sapienzahub.it"
 
   [[params.social]]
-    name = "github"
-    url  = "https://github.com/"
-
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/"
-
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+    name = "gitlab"
+    url  = "https://gitlab.com/"
 
 [languages]
   [languages.en]
