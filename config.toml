@@ -5,6 +5,7 @@ contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
 publishDir   = "public"
+
 title = "Sapienza Hub"
 canonifyurls  = true
 DefaultContentLanguage = "en"
