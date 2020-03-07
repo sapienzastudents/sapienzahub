@@ -1,7 +1,10 @@
-baseurl = "https://pages.gitlab.io/hugo/"
-contentdir    = "content"
-layoutdir     = "layouts"
-publishdir    = "public"
+#baseurl = "https://pages.gitlab.io/hugo/" DON'T DELETE, USEFUL FOR LOCAL TESTING
+baseurl = "/sapienzahub/"
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
 title = "Sapienza Hub"
 canonifyurls  = true
 DefaultContentLanguage = "en"
@@ -21,12 +24,6 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 
 # googleAnalytics = ""
 # disqusShortname = ""
-
-archetypeDir = "archetypes"
-contentDir   = "content"
-dataDir      = "data"
-layoutDir    = "layouts"
-publishDir   = "public"
 
 buildDrafts  = false
 buildFuture  = false
@@ -66,7 +63,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "Creato dagli studenti per gli studenti"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -117,21 +114,29 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = "Creato dagli studenti per gli studenti"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-  [languages.fr]
-    subtitle  = "Hello Friend NG Theme"
+  [languages.it]
+    subtitle  = "Creato dagli studenti per gli studenti"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
+    identifier = "links"
+    name       = "Link Utili"
+    url        = "links/"
   [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
+    identifier = "faq"
+    name       = "FAQ"
+    url        = "faq/"
+  [[menu.main]]
+    identifier = "resources"
+    name       = "Risorse"
+    url        = "resources/"
+  [[menu.main]]
+    identifier = "about"
+    name       = "Chi siamo"
+    url        = "about/"
