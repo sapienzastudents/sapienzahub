@@ -128,16 +128,16 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "links"
     name       = "Link Utili"
-    url        = "links/"
+    url        = "/links/"
   [[menu.main]]
     identifier = "faq"
     name       = "FAQ"
-    url        = "faq/"
+    url        = "/faq/"
   [[menu.main]]
     identifier = "resources"
     name       = "Risorse"
-    url        = "resources/"
+    url        = "/resources/"
   [[menu.main]]
     identifier = "about"
     name       = "Chi siamo"
-    url        = "about/"
+    url        = "/about/"
