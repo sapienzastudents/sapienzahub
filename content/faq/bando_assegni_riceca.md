@@ -1,10 +1,7 @@
----
-title: "Bando relativo agli assegni di ricerca"
-date: 2020-03-07T22:31:15+01:00
-draft: false
-comments: false
-images:
----
++++
+title = "Bando relativo agli assegni di ricerca"
+draft = "false"
++++
 
 ### Dove trovo il bando relativo agli assegni di ricerca?
 I bandi degli assegni di ricerca vengono pubblicati a cura dell’ufficio concorsi sulla pagina web Bandi e Concorsi

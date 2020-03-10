@@ -1,9 +1,6 @@
 +++
 title = "Risorse"
-date = "2014-04-09"
-aliases = ["resources","risorse"]
-[ author ]
-  name = "Sapienza Students"
+name = "Sapienza Students"
 +++
 
 Link al download e al codice sorgente delle risorse

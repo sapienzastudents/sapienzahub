@@ -1,5 +1,4 @@
 +++
-date = "2014-09-28"
 description = "Pagina contenenti link utile a gruppi"
 title = "Link utili"
 type = "post"

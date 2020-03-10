@@ -141,3 +141,7 @@ disableHugoGeneratorInject = false
     identifier = "about"
     name       = "Chi siamo"
     url        = "/about/"
+  [[menu.main]]
+    identifier = "tools"
+    name       = "Tools"
+    url        = "/tools/toollist"
