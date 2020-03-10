@@ -10,7 +10,7 @@ title = "Sapienza Hub"
 canonifyurls  = true
 DefaultContentLanguage = "en"
 
-theme = "hello-friend-ng"
+theme = "hugo-theme-hello-friend"
 
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
