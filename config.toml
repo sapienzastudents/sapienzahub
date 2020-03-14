@@ -1,147 +1,71 @@
-#baseurl = "https://pages.gitlab.io/hugo/" DON'T DELETE, USEFUL FOR LOCAL TESTING
 baseurl = "/"
-archetypeDir = "archetypes"
-contentDir   = "content"
-dataDir      = "data"
-layoutDir    = "layouts"
-publishDir   = "public"
-
 title = "Sapienza Hub"
-canonifyurls  = true
-DefaultContentLanguage = "en"
+theme = "ghostwriter"
+languageCode = "en-us"
+copyright = "My Name"
+disqusShortname = "XXX"
+googleAnalytics = "XXX"
 
-theme = "hugo-theme-hello-friend"
+[Privacy]
 
-metaDataFormat = "yaml"
-pygmentsUseClasses = true
-pygmentCodeFences = true
-PygmentsStyle = "monokai"
-#disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+[Privacy.disqus]
+    disable = true
 
+[Privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = false
 
-rssLimit  = 10  # Maximum number of items in the RSS feed.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+[Author]
+    name = "Sapienza Students"
+    profile = "https://google.com/+XXX"
 
-# googleAnalytics = ""
-# disqusShortname = ""
+[Taxonomies]
+    tag = "tags"
 
-buildDrafts  = false
-buildFuture  = false
-buildExpored = false
-canonifyURLs = true
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "Sapienza Hub"
+    description = "Creata dagli studenti per gli studenti"
+    gitlab = "https://gitlab.com/sapienzastudents"
+    email = "sapienzahub@gmail.com"
+    opengraph = true
+    shareTwitter = true
+    shareFacebook = true
+    shareGooglePlus = true
+    shareLinkedIn = false
+    dateFormat = "Mon, Jan 2, 2006"
+    highlightJsUrl = ""
+    highlightJsLocalUrl = ""
+    exponeaJsUrl = ""
+    exponeaTarget = ""
+    exponeaToken = ""
+    exponeaTrackVisits = false
+    readingTime = true
+    readingTimeText = "Estimated reading time:"
+    fathomUrl = ""
+    fathomSiteId = ""
 
-enableRobotsTXT = true
-enableGitInfo   = false
-enableEmoji     = true
-enableMissingTranslationPlaceholders = false
-disableRSS     = false
-disableSitemap = false
-disable404     = false
-disableHugoGeneratorInject = false
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
 
-[permalinks]
-  posts = "/posts/:year/:month/:title/"
+[[menu.main]]
+    name = "Risorse"
+    url = "/resources/"
+    weight = 3
 
-[author]
-  name = "Sapienza Hub"
+[[menu.main]]
+    name = "Links"
+    url = "/links/"
+    weight = 1
 
-[blackfriday]
-  hrefTargetBlank = true
+[[menu.main]]
+    name = "FAQ"
+    url = "/faq/"
+    weight = 2
 
-[taxonomies]
-  tag      = "tags"
-  category = "categories"
-
-[params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
-
-  # Metadata mostly used in document's head
-  description = "Nice theme for homepages and blogs"
-  keywords = ""
-  images = [""]
-
-  homeSubtitle = "Creato dagli studenti per gli studenti"
-
-  # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  # gitUrl = ""
-
-  # Set disableReadOtherPosts to true in order to hide the links to other posts.
-  disableReadOtherPosts = false
-
-  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
-  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
-  customCSS = []
-  customJS  = []
-
-  # Toggle this option need to rebuild SCSS, requires extended version of Hugo
-  justifyContent = false  # Set "text-align: justify" to .content.
-
-  # Directory name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
-
-  # Default theme "light" or "dark"
-  defaultTheme = "dark"
-  themeColor = "#252627"
-
-  # Colors for favicons
-  [params.favicon.color]
-    mask = "#252627"
-    msapplication = "#252627"
-    theme = "#252627"
-
-  [params.logo]
-    logoText     = "Sapienza Hub"
-    logoHomeLink = "/"
-    # Set true to remove the logo cursor entirely.
-    # logoCursorDisabled = false
-    # Set to a valid CSS color to change the cursor in the logo.
-    # logoCursorColor    = "#67a2c9"
-    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
-    # logoCursorAnimate  = "2s"
-
-  # Social icons
-
-  [[params.social]]
-    name = "email"
-    url  = "mailto:contact@sapienzahub.it"
-
-  [[params.social]]
-    name = "gitlab"
-    url  = "https://gitlab.com/"
-
-[languages]
-  [languages.en]
-    subtitle  = "Creato dagli studenti per gli studenti"
-    weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-
-  [languages.it]
-    subtitle  = "Creato dagli studenti per gli studenti"
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-
-[menu]
-  [[menu.main]]
-    identifier = "links"
-    name       = "Link Utili"
-    url        = "/links/"
-  [[menu.main]]
-    identifier = "faq"
-    name       = "FAQ"
-    url        = "/faq/"
-  [[menu.main]]
-    identifier = "resources"
-    name       = "Risorse"
-    url        = "/resources/"
-  [[menu.main]]
-    identifier = "about"
-    name       = "Chi siamo"
-    url        = "/about/"
-  [[menu.main]]
-    identifier = "tools"
-    name       = "Tools"
-    url        = "/tools/toollist"
+[[menu.main]]
+    name = "Chi Siamo"
+    url = "/about/"
+    weight = 4

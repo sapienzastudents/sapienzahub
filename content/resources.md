@@ -28,6 +28,3 @@ Link al download e al codice sorgente delle risorse
 * Programmazione di sistemi multicore
   * [Scarica contenuto](https://gitlab.com/sapienzastudents/exercises/-/archive/master/exercises-master.zip?path=Sistemi%20Multicore)
   * [Visualizza sorgente](https://gitlab.com/sapienzastudents/exercises/-/tree/master/Sistemi%20Multicore)
-
-
-
