@@ -40,9 +40,3 @@ R: No, una volta riconosciuto vale finché il documento caricato è valido
 
 #### Q: Quale segreteria devo contattare? Oppure: ho contattato la segreteria didattica e mi han detto che non se ne occupano!
 R: La segreteria compentente per gli affari di Ateneo (ergo iscrizione, tasse, tessera studenti, etc) è la segreteria studenti. Sono organizzate per facoltà, orari e riferimenti qui: https://www.uniroma1.it/it/pagina/segreterie-studenti
-
-
-
-e infine, per i più interessati:
-#### Q: Ma la Sapienza non ha mai fatto la verifica documenti / ma inviavano tessere a caso prima del Covid / ma a che serve, tanto sono io / ...
-R: Basta polemiche. Siamo in una situazione di emergenza, la cosa importante è cercare di sistemare le cose, è inutile lamentarsi. Inoltre, la tessera c'è da decenni, ed il riconoscimento è stato introdotto l'anno scorso per validare la tessera studenti ed i documenti come da normative. Quindi sono polemiche inutili. Stop.
