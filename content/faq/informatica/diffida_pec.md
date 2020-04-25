@@ -1,9 +1,7 @@
 ---
 title: "Diffida via PEC"
-date: 2020-03-07T22:31:15+01:00
 draft: false
 comments: false
-images:
 ---
 
 ### Si può diffidare o essere diffidati via P.E.C.?

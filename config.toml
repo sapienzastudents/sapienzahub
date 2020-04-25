@@ -18,7 +18,7 @@ googleAnalytics = "XXX"
 
 [Author]
     name = "Sapienza Students"
-    profile = "https://google.com/+XXX"
+    profile = ""
 
 [Taxonomies]
     tag = "tags"
@@ -30,10 +30,10 @@ googleAnalytics = "XXX"
     description = "Creata dagli studenti per gli studenti"
     gitlab = "https://gitlab.com/sapienzastudents"
     email = "sapienzahub@gmail.com"
-    opengraph = true
-    shareTwitter = true
-    shareFacebook = true
-    shareGooglePlus = true
+    opengraph = false
+    shareTwitter = false
+    shareFacebook = false
+    shareGooglePlus = false
     shareLinkedIn = false
     dateFormat = "Mon, Jan 2, 2006"
     highlightJsUrl = ""
@@ -42,7 +42,7 @@ googleAnalytics = "XXX"
     exponeaTarget = ""
     exponeaToken = ""
     exponeaTrackVisits = false
-    readingTime = true
+    readingTime = false
     readingTimeText = "Estimated reading time:"
     fathomUrl = ""
     fathomSiteId = ""
@@ -69,3 +69,8 @@ googleAnalytics = "XXX"
     name = "Chi Siamo"
     url = "/about/"
     weight = 4
+
+[[menu.main]]
+    name = "COVID"
+    url = "/covid/"
+    weight = 5
