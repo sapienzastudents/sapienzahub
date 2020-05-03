@@ -42,7 +42,7 @@ sono gli esami obbligatori) che si devono coprire selezionando gli esami per
 completare le aree. La scelta di questi esami è più o meno libera a seconda del
 "gruppo" da coprire. 
 
-E' consigliato fornire una breve motivazione scritta prima di inviare il piano
+È consigliato fornire una breve motivazione scritta prima di inviare il piano
 riguardo agli esami a scelta libera (vedi sotto).
 
 ### Gruppi di esami
@@ -62,7 +62,7 @@ di uno dei due gruppi opzionali.
 
 Oltre a questi due gruppi ne esiste un terzo per cui bisogna selezionare 12 CFU
 tra qualsiasi esame erogato dall'Ateneo (non esistono vincoli dunque, a
-differenza dei due gruppi di prima). E' possibile selezionare, ovviamente, anche
+differenza dei due gruppi di prima). È possibile selezionare, ovviamente, anche
 gli esami presenti nei gruppi opzionali di prima (che non sono già stati
 selezionati). In questo gruppo, oltre alle classiche combinazioni 6+6 CFU o 12
 CFU è possibile anche avere 1 esame da 6 CFU e 1 esame da 9 CFU: in questo caso
@@ -81,7 +81,7 @@ non sei riuscito a inserire nei primi gruppi.
 
 ## Quante volte posso compilare il piano di studi?
 
-**E' possibile sottomettere un solo piano per anno** (salvo casi eccezionali),
+**È possibile sottomettere un solo piano per anno** (salvo casi eccezionali),
 generalmente prima di fine Dicembre. Si può cambiare l'anno successivo, e se non
 si cambia resta confermato quello presentato l'anno precedente.
 
