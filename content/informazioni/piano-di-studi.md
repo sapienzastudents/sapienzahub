@@ -104,4 +104,4 @@ metterà in contatto con voi per risolvere.
 ## Documenti e guide ufficiali
 
 INSERIRE LINKS WIP
-* [Manuale di uso della piattaforma di compilazione del piano di studi](https://corsidilaurea.uniroma1.it/sites/default/files/percorsoformativo_manuale_08112018_0.pdf)
+* [Manuale di uso della piattaforma di compilazione del piano di studi](/piani_di_studio/percorsoformativo_manuale_08112018_0.pdf)
