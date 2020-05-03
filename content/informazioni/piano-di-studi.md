@@ -24,32 +24,26 @@ indicata nel regolamento.
 ## Come si compila?
 
 È possibile scegliere gli esami con cui "completare" il proprio percorso secondo
-alcuni criteri. In tutti i casi gli esami di *Ingegneria del Software* e
-*Automi, Calcolabilità e Complessità* sono obbligatori.
+alcuni criteri.
 
 ### Tipi di Curriculum
 
-La prima cosa da scegliere è il tipo di "piano":
+La prima cosa da scegliere è il tipo di "piano": esistono il piano **Metodologico**
+e **Tecnologico**. La differenza tra i due è minima, e riguarda la presenza o
+meno di alcuni esami (per sapere quali è necessario che tu apra il bando
+dell'anno in cui ti sei iscritto).
 
-* **Piani di completamento già pronti**: sono piani di studi precompilati, con
-  esami già inseriti e selezionati. Se si sceglie uno di questi piani c'è
-  l'approvazione automatica. Al momento della scrittura di questa pagina sono
-  persenti due piani: *Metodologico* e *Tecnologico*.
+Esiste anche il piano "individuale", tuttavia per essere approvato deve
+corrispondere, per esami, ad uno dei piani indicati qui sopra, quindi non è
+consigliabile scegliere questo tipo di piano.
 
-* **Piano di completamento Metodologico** (o **Tecnologico**): sono i piani di
-  di studio di base tra cui scegliere per poter compilare il proprio piano di
-  studi. Si hanno una serie di CFU a scelta "libera" (il restante sono gli esami
-  obbligatori) che si devono coprire selezionando gli esami per completare le
-  aree. La scelta di questi esami è più o meno libera a seconda del "gruppo" da
-  coprire. In questo caso è possibile fornire una breve motivazione scritta
-  prima di inviare il piano (consigliata in alcuni casi, vedi sotto), che dovrà
-  essere approvato manualmente dal docente preposto.
+In entrambi i casi si hanno una serie di CFU a scelta "libera" (il restante
+sono gli esami obbligatori) che si devono coprire selezionando gli esami per
+completare le aree. La scelta di questi esami è più o meno libera a seconda del
+"gruppo" da coprire. 
 
-* **Piano di completamento individuale**: è un piano "libero", che attualmente
-  non è sottomissibile
-
-Se si sceglie un piano di completamento già pronto, il resto di questo documento
-è superfluo.
+E' consigliato fornire una breve motivazione scritta prima di inviare il piano
+riguardo agli esami a scelta libera (vedi sotto).
 
 ### Gruppi di esami
 
@@ -58,10 +52,8 @@ Gli esami sono divisi in due gruppi opzionali:
 * Esami **Metodologici (caratterizzanti/affini)**
 * Esami **Tecnologici (caratterizzanti/affini)**
 
-Per ognuno di questi due gruppi è necessario selezionare un numero di CFU
-che dipende dal piano di completamento di base da cui si è partiti. Ad esempio,
-se il piano di partenza prevede 12 CFU per quello specifico gruppo, vanno
-selezionati esami per "coprire" i 12 CFU (ad esempio 2 da 6 CFU, o 1 da 12).
+Per ognuno di questi due gruppi è necessario selezionare 18 CFU di esami tra
+quelli proposti per ogni gruppo.
 
 Alcuni esami sono selezionabili in entrambi i gruppi: vuol dire che possono
 essere usati per completare i CFU necessari in uno dei due gruppi, a scelta
@@ -69,11 +61,11 @@ dello studente. Altri esami invece possono essere selezionati solo nell'ambito
 di uno dei due gruppi opzionali.
 
 Oltre a questi due gruppi ne esiste un terzo per cui bisogna selezionare 12 CFU
-tra qualsiasi esame erogato dalla facoltà (non esistono vincoli dunque, a
+tra qualsiasi esame erogato dall'Ateneo (non esistono vincoli dunque, a
 differenza dei due gruppi di prima). E' possibile selezionare, ovviamente, anche
 gli esami presenti nei gruppi opzionali di prima (che non sono già stati
-selezionati). In questo caso, oltre alle classiche combinazioni 6+6 CFU o 12 CFU
-è possibile anche avere 1 esame da 6 CFU e 1 esame da 9 CFU: in questo caso
+selezionati). In questo gruppo, oltre alle classiche combinazioni 6+6 CFU o 12
+CFU è possibile anche avere 1 esame da 6 CFU e 1 esame da 9 CFU: in questo caso
 l'eccedenza di 3 CFU viene accettata.
 
 **Nota importante**: nell'ultimo gruppo puoi scegliere qualsiasi esame,
@@ -99,6 +91,15 @@ esami obbligatori.
 Nota che tramite la piattaforma è possibile creare delle "bozze", ovvero
 compilare dei "possibili piani" per averli pronti. Tuttavia **uno** solo sarà
 quello che si potrà sottomettere per l'approvazione.
+
+## Quali sono i tempi? Cosa succede se il piano non va bene?
+
+I piani di solito si possono sottomettere da Ottobre/Novembre.
+
+Il piano sottomesso è approvato entro l'inizio della sessione d'esame di Gennaio.
+Il ché vuol dire che potrebbe essere approvato subito, oppure i primi di Gennaio.
+In caso di problemi con il piano, il docente preposto per l'approvazione si
+metterà in contatto con voi per risolvere.
 
 ## Documenti e guide ufficiali
 
