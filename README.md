@@ -1,12 +1,42 @@
-# Sapienza Hub 
-## creato dagli studenti per gli studenti
+# Sapienza Hub: creato dagli studenti per gli studenti
 
-### Cos'e
-Sapienza Hub e' un sito non ufficiale dell'universita' La Sapienza, il suo scopo e' quello di raccogliere tutte le informazioni frastagliate o non presenti sui vari siti della Sapienza di tutte le facolta'
+Versione live: https://sapienzahub.it/
 
-### Chi sviluppa e mantiente il sito aggiornato?
-Il sito e' stato creato da studenti della facolta' di Informatica della Sapienza e viene mantenuto ed aggiornata dagli stessi
+## Cos'è
 
-### Come posso contribuire?
-Puoi contattare uno degli amministratori sul gruppo Telegram della triennale oppure mandare una mail sapienzahub@gmail.com
+Sapienza Hub è un sito non ufficiale dell'[Università degli Studi di Roma *La
+Sapienza* ][0], con lo scopo di raccogliere tutte le informazioni frastagliate o
+non presenti sui vari siti ufficiali di tutte le facoltà, con particolare
+attenzione per quella di Informatica.
 
+## Chi sviluppa e mantiente il sito aggiornato?
+
+Il sito è stato creato dagli studenti della facoltà di Informatica, viene
+mantenuto e aggiornato nel tempo libero.
+
+## Come posso contribuire?
+
+Per contribuire puoi contattare uno degli amministratori del gruppo della
+triennale di Informatica su [Telegram][2], oppure mandare un'email a
+sapienzahub@gmail.com.
+
+### Istruzioni per costruire il sito
+
+Il sito utilizzo [Hugo][3], un software popolare per la creazione di siti
+statici. È necessario averlo installato nel sistema. Per vedere le pagine
+renderizzate inviare il comando:
+
+    $ hugo server
+
+Se si vuole vedere anche le bozze (*daft* nel gergo di Hugo), si può aggiungere
+l'opzione `-D` al comando.
+
+## Licenza
+
+Il sito è rilasciato sotto licenza MIT. Per maggiori informazioni consultare il
+testo nel file [LICENSE][1].
+
+[0]: https://www.uniroma1.it/it/
+[1]: LICENSE
+[2]: https://t.me/sapienzainformatica
+[3]: https://gohugo.io
