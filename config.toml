@@ -50,10 +50,7 @@ googleAnalytics = "XXX"
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
 
-[[menu.main]]
-    name = "Risorse"
-    url = "/resources/"
-    weight = 3
+
 
 [[menu.main]]
     name = "Links"
@@ -66,11 +63,21 @@ googleAnalytics = "XXX"
     weight = 2
 
 [[menu.main]]
+    name = "Risorse"
+    url = "/resources/"
+    weight = 3
+
+[[menu.main]]
+    name = "Informazioni"
+    url = "/info/"
+    weight = 4
+
+[[menu.main]]
     name = "Chi Siamo"
     url = "/about/"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     name = "COVID"
     url = "/covid/"
-    weight = 5
+    weight = 6
