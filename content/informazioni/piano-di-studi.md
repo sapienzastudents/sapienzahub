@@ -2,7 +2,6 @@
 description = "Informazioni relative al piano di studi"
 title = "Piano di studi"
 type = "post"
-draft = true
 +++
 
 In questa pagina, e nei siti Sapienza, il **Piano di studi** è anche chiamato
@@ -34,8 +33,8 @@ meno di alcuni esami (per sapere quali è necessario che tu apra il bando
 dell'anno in cui ti sei iscritto).
 
 Esiste anche il piano "individuale", tuttavia per essere approvato deve
-corrispondere, per esami, ad uno dei piani indicati qui sopra, quindi non è
-consigliabile scegliere questo tipo di piano.
+corrispondere, per esami, ad uno dei piani indicati qui sopra, quindi è
+equivalente.
 
 In entrambi i casi si hanno una serie di CFU a scelta "libera" (il restante
 sono gli esami obbligatori) che si devono coprire selezionando gli esami per
@@ -67,6 +66,11 @@ gli esami presenti nei gruppi opzionali di prima (che non sono già stati
 selezionati). In questo gruppo, oltre alle classiche combinazioni 6+6 CFU o 12
 CFU è possibile anche avere 1 esame da 6 CFU e 1 esame da 9 CFU: in questo caso
 l'eccedenza di 3 CFU viene accettata.
+
+**Nota**: se si vuole avere un'idea di come si può comporre il piano di studi,
+è anche possibile visionare i moduli PDF presenti nel link "Moduli per la
+presentazione del Piano di studi cartaceo".
+**I moduli cartacei non sono da compilare se non espressamente richiesto**.
 
 **Nota importante**: nell'ultimo gruppo puoi scegliere qualsiasi esame,
 l'importante è che abbia attinenza con il tuo percorso di studi e che tu sia in
@@ -103,5 +107,6 @@ metterà in contatto con voi per risolvere.
 
 ## Documenti e guide ufficiali
 
-INSERIRE LINKS WIP
-* [Manuale di uso della piattaforma di compilazione del piano di studi](/piani_di_studio/percorsoformativo_manuale_08112018_0.pdf)
+* [Pagina "Percorsi formativi" sul sito del dipartimento](https://www.studiareinformatica.uniroma1.it/laurea/percorsi-formativi)
+* [Manuale di uso della piattaforma di compilazione del piano di studi](/piani_di_studio/2018-11-08_percorso_formativo_manuale.pdf)
+* [Moduli per la presentazione del Piano di studi cartaceo (SOLO SE RICHIESTO)](https://www.studiareinformatica.uniroma1.it/moduli-percorsi-formativi)
