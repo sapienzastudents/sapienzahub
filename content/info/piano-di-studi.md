@@ -2,6 +2,7 @@
 description = "Informazioni relative al piano di studi"
 title = "Piano di studi"
 type = "post"
+date = 2020-05-04
 +++
 
 In questa pagina, e nei siti Sapienza, il **Piano di studi** è anche chiamato
