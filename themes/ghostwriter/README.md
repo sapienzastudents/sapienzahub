@@ -33,92 +33,88 @@ or run `build` to compile the styles:
 yarn run build
 ```
 
-## Example config.yml
+## Example config.toml
 
 To customize your theme you can use following params:
 
-```yaml
-baseurl: "https://example.com/"
-title: mytitle
-theme: ghostwriter
-languageCode: en-us
-copyright: My Name
-googleAnalytics: XXX
-disqusShortname: XXX
-pygmentsUseClasses: true
-pygmentsCodefences: true
+```toml
+baseurl = "https://example.com/"
+title = "mytitle"
+theme = "ghostwriter"
+languageCode = "en-us"
+copyright = "My Name"
+googleAnalytics = "XXX"
+disqusShortname = "XXX"
 
-markup:
-  highlight:
-    codeFences: true
-    guessSyntax: false
-    hl_Lines: ""
-    lineNoStart: 1
-    lineNos: false
-    lineNumbersInTable: true
-    noClasses: true
-    tabWidth: 2
+[Privacy]
 
-privacy:
-  disqus:
-    disable: true
-  googleAnalytics:
-    anonymizeIP: true
-    respectDoNotTrack: true
-    useSessionStorage: false
+[Privacy.disqus]
+    disable = true
 
-author:
-  name: My Name
-  profile: "https://google.com/+XXX"
+[Privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = false
 
-taxonomies:
-  tag: tags
+[Author]
+    name = "My Name"
+    profile = "https://google.com/+XXX"
 
-params:
-  mainSections:
-    - post
-  intro: true
-  headline: My headline
-  description: My description
-  github: "https://github.com/XXX"
-  gitlab: "https://gitlab.com/XXX"
-  linkedin: "https://linkedin.com/in/XXX/"
-  twitter: "https://twitter.com/XXX"
-  stackoverflow: "https://stackoverflow.com/users/XXX/YYY"
-  facebook: "https://www.facebook.com/username"
-  email: xxx@example.com
-  opengraph: true
-  shareTwitter: true
-  shareFacebook: true
-  shareGooglePlus: true
-  shareLinkedIn: false
-  dateFormat: "Mon, Jan 2, 2006"
-  exponeaJsUrl: ""
-  exponeaTarget: ""
-  exponeaToken: ""
-  exponeaTrackVisits: false
-  readingTime: true
-  readingTimeText: "Estimated reading time:"
-  fathomUrl: ""
-  fathomSiteId: ""
+[Taxonomies]
+    tag = "tags"
 
-permalinks:
-  post: "/:year/:month/:day/:filename/"
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "My headline"
+    description = "My description"
+    github = "https://github.com/XXX"
+    gitlab = "https://gitlab.com/XXX"
+    linkedin = "https://linkedin.com/in/XXX/"
+    gplus = "https://google.com/+XXX"
+    twitter = "https://twitter.com/XXX"
+    stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
+    facebook = "https://www.facebook.com/username"
+    email = "XXX@example.com"
+    opengraph = true
+    shareTwitter = true
+    shareFacebook = true
+    shareGooglePlus = true
+    shareLinkedIn = false
+    dateFormat = "Mon, Jan 2, 2006"
+    highlightJsUrl = ""
+    highlightJsLocalUrl = ""
+    exponeaJsUrl = ""
+    exponeaTarget = ""
+    exponeaToken = ""
+    exponeaTrackVisits = false
+    readingTime = true
+    readingTimeText = "Estimated reading time:"
+    fathomUrl = ""
+    fathomSiteId = ""
 
-menu:
-  main:
-    - name: Blog
-      url: /
-      weight: 1
-    - name: Projects
-      url: /project/
-      weight: 2
-    - name: Contact
-      url: /page/contact/
-      weight: 3
-    - name: About
-      url: /page/about/
-      weight: 4
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Projects"
+    url = "/project/"
+    weight = 2
+
+[[menu.main]]
+    name = "Contact"
+    url = "/page/contact/"
+    weight = 3
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 4
 ```
 
 You can also inject arbitrary HTML into `<head>` simply by overriding the `extra-in-head.html`

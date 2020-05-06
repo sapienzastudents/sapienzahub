@@ -90,6 +90,7 @@ img {
 }
 
 pre {
+    background: #F1F0EA;
     border: 1px solid #DDDBCC;
     border-radius: 3px;
     margin: 0 0 20px;
@@ -105,8 +106,9 @@ pre {
 code {
     padding: 2px 4px;
     font-size: 90%;
-    border-radius: 4px;
-    background-color: #f1f0ea;
+    color: $primary;
+    background-color: #F1F0EA;
+    border-radius: 4px
 }
 
 hr {

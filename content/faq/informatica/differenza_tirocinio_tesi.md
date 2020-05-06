@@ -3,7 +3,7 @@ title: "Differenza tra tirocinio e tesi"
 date: 2020-03-07T22:31:15+01:00
 draft: false
 comments: false
-images:
+type: "post"
 ---
 
 ### Che differenza c'è tra tirocinio e tesi?
