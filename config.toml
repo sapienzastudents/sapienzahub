@@ -29,6 +29,7 @@ googleAnalytics = "XXX"
     headline = "Sapienza Hub"
     description = "Creata dagli studenti per gli studenti"
     gitlab = "https://gitlab.com/sapienzastudents"
+    telegram = "https://t.me/sapienzainformatica"
     email = "sapienzahub@gmail.com"
     opengraph = false
     shareTwitter = false
