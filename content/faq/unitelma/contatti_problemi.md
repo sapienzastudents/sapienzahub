@@ -2,6 +2,7 @@
 title: "Contatti per problematiche"
 draft: false
 comments: false
+type: "post"
 ---
 
 #### A chi mi rivolgo se ho un problema?
