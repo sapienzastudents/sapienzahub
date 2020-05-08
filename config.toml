@@ -1,6 +1,5 @@
 baseurl = "/"
 title = "Sapienza Hub"
-theme = "ghostwriter"
 languageCode = "en-us"
 copyright = "My Name"
 disqusShortname = "XXX"
