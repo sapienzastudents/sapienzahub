@@ -74,6 +74,11 @@
                                 <i class="fa fa-envelope"></i>
                             </a>
                         {{ end }}
+                        {{ with .Site.Params.telegram }}
+                            <a class="button-square button-social hint--top" data-hint="Telegram" title="Telegram" href="{{ .  }}" rel="me">
+                                <i class="fa fa-telegram"></i>
+                            </a>
+                        {{ end }}
                     </div>
 
                     <ul class="site-nav">
