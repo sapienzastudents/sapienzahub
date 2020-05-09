@@ -3,16 +3,25 @@
 <div id="post-index" class="container" itemscope="" itemtype="https://schema.org/Blog">
     {{ partial "intro.html" . }}
 
-    <ol class="post-list">
-        {{ $pag := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
-        {{ range $pag.Pages }}
-            {{ partial "post-stub.html" . }}
-        {{ end }}
-    </ol>
+    <h1>Benvenut* su Sapienza Hub</h1>
+    <h3>Cos'e Sapienza Hub?</h3>
+    <p>E un sito non ufficiale della facolta di 
+    Informatica della Sapienza creato da studenti per raccogliere tutte le risorse utili BLABLABLA da finire</p>
+    
+    <h3>Come funziona il sito?</h3>
+    <p>Il sito e' diviso in diverse sezioni:
+        <ol>
+            <li><strong>Links.</strong> Contiene link ai gruppi creati e amministrati dagli studenti per confrontarsi ed aiutarsi a vicenda</li>
+            <li><strong>FAQ.</strong> Raccolta di domande piu' comuni fatte dagli studenti (con relativa risposta)</li>
+            <li><strong>Risorse.</strong> Contiene esercizi svolti di varie materie</li>
+            <li><strong>Informazioni.</strong></li>
+            <li><strong>Chi siamo.</strong> Qui trovi informazioni sugli autori del progetto e su come contattarci</li>
+            <li><strong>COVID.</strong> SEZIONE SPECIALE PER INFO RIGUARDANTI EMERGENZA COVID</li>
+        </ol>
+    </p>
 
-    <div class="post-navigation">
-        {{ partial "pagination.html" . }}
-    </div>
+
+    
 </div>
 
 {{ partial "footer.html" . }}
