@@ -3,28 +3,32 @@ title = "Risorse"
 name = "Sapienza Students"
 +++
 
-Link al download e al codice sorgente delle risorse
+Nel corso degli anni sono stati raccolti strumenti e risorse aggiuntive per
+diversi esami del corso di **Informatica triennale**. Molti dei documenti sono
+presenti nei più disparati siti dei professori, noi abbiamo cercato di riunirli
+in un unico punto. Tuttavia proprio per questo motivo le risorse potrebbero non
+essere più aggiornate o il professore potrebbe essere cambiato, quindi
+consigliamo sempre di consultare prima le risorse ufficiali!
 
-* Sistemi Digitali
-  * [Scarica contenuto](https://gitlab.com/sapienzastudents/exercises/-/archive/master/exercises-master.zip?path=Sistemi%20Digitali)
-  * [Visualizza sorgente](https://gitlab.com/sapienzastudents/exercises/-/tree/master/Sistemi%20Digitali)
+* *Sistemi Digitali* [[**Scarica zip**]][0]: diversi esercizi con soluzione.
+* *Architettura degli Elaboratori* [[**Scarica zip**]][1]: diversi esercizi con
+  soluzione di programmi in assembly MIPS e logica della CPU e Cache.
+* *Progettazione di Algoritmi* [[**Scarica zip**]][2]: esercizi svolti e
+  implementatione in Python di diversi algoritmi visti a lezione.
+* *Programmazione Web* [[**Scarica zip**]][3]: esercizi e template di pagine web.
+* *Linguaggi e tecnologie per il web* [[**Scarica zip**]][4]: esercizi e template
+  di pagine web. Questo è un corso di *Ingegneria Informatica*.
+* *Programmazione di sistemi multicore* [[**Scarica zip**]][5]: esercizi, appunti
+  e codici in C, per Arduino e multithreading.
 
-* Architettura degli elaboratori
-  * [Scarica contenuto](https://gitlab.com/sapienzastudents/exercises/-/archive/master/exercises-master.zip?path=Architettura%20elaboratori)
-  * [Visualizza sorgente](https://gitlab.com/sapienzastudents/exercises/-/tree/master/Architettura%20elaboratori)
+Vuoi dare un **contributo** aggiungendo delle risorse, come esercizi o soluzioni?
+Basta inviarci [un'**email**](sapienzahub@gmail.com), oppure tramite la nostra
+[**repository git**](https://gitlab.com/sapienzastudents/exercises) e noi saremo più
+che contenti di aggiungere le risorse!
 
-* Progettazione di Algoritmi
-  * [Scarica contenuto](https://gitlab.com/sapienzastudents/exercises/-/archive/master/exercises-master.zip?path=Progettazione%20di%20Algoritmi)
-  * [Visualizza sorgente](https://gitlab.com/sapienzastudents/exercises/-/tree/master/Progettazione%20di%20Algoritmi)
-
-* Programmazione Web
-  * [Scarica contenuto](https://gitlab.com/sapienzastudents/exercises/-/archive/master/exercises-master.zip?path=Programmazione%20web)
-  * [Visualizza sorgente](https://gitlab.com/sapienzastudents/exercises/-/tree/master/Programmazione%20web)
-
-* Linguaggi e tecnologie per il web
-  * [Scarica contenuto](https://gitlab.com/sapienzastudents/exercises/-/archive/master/exercises-master.zip?path=Linguaggi%20e%20tecnologie%20per%20il%20web)
-  * [Visualizza sorgente](https://gitlab.com/sapienzastudents/exercises/-/tree/master/Linguaggi%20e%20tecnologie%20per%20il%20web)
-
-* Programmazione di sistemi multicore
-  * [Scarica contenuto](https://gitlab.com/sapienzastudents/exercises/-/archive/master/exercises-master.zip?path=Sistemi%20Multicore)
-  * [Visualizza sorgente](https://gitlab.com/sapienzastudents/exercises/-/tree/master/Sistemi%20Multicore)
+[0]: https://gitlab.com/sapienzastudents/exercises/-/archive/master/exercises-master.zip?path=Sistemi%20Digitali
+[1]: https://gitlab.com/sapienzastudents/exercises/-/archive/master/exercises-master.zip?path=Architettura%20elaboratori
+[2]: https://gitlab.com/sapienzastudents/exercises/-/archive/master/exercises-master.zip?path=Progettazione%20di%20Algoritmi
+[3]: https://gitlab.com/sapienzastudents/exercises/-/archive/master/exercises-master.zip?path=Programmazione%20web
+[4]: https://gitlab.com/sapienzastudents/exercises/-/archive/master/exercises-master.zip?path=Linguaggi%20e%20tecnologie%20per%20il%20web
+[5]: https://gitlab.com/sapienzastudents/exercises/-/archive/master/exercises-master.zip?path=Sistemi%20Multicore
