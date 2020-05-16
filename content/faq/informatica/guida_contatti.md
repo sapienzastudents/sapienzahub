@@ -2,8 +2,7 @@
 title: "Guida contatti: CGD, segreteria studenti, docenti"
 date: 2020-03-07T22:31:15+01:00
 draft: false
-comments: false
-images:
+type : "post"
 ---
 
 ### Per quali questioni mi devo rivolgere alla Commissione Gestione della Didattica (CGD) per quali alla segreteria studenti e per quali direttamente ai docenti?
