@@ -1,6 +1,8 @@
 +++
 title = "Risorse"
 name = "Sapienza Students"
+type = "post"
+date = "2020-01-01"
 +++
 
 Nel corso degli anni sono stati raccolti strumenti e risorse aggiuntive per

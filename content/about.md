@@ -1,5 +1,8 @@
 +++
 title = "Chi siamo"
+name = "Sapienza Students"
+type = "post"
+date = "2020-01-01"
 +++
 
 ### Chi siamo?

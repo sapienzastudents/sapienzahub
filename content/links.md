@@ -2,6 +2,7 @@
 description = "Pagina contenenti link utile a gruppi"
 title = "Link utili"
 type = "post"
+date = "2020-01-01"
 +++
 
 ### Gruppi e links
@@ -12,6 +13,9 @@ Gruppi
 * [Canale Telegram](https://t.me/sapienzafeed) con Informazioni e Avvisi riguardanti la facoltà, i professori e i corsi
 * [Gruppo Telegram](https://t.me/sapienzainformatica) della Facoltà di Informatica (Triennale)
 * [Gruppo Telegram](https://t.me/InformaticaSapienzaTeledidattica) della Facoltà di Informatica via telematica (Unitelma)
+* [Gruppo Telegram](https://t.me/sapienzacyberclass) MSc Cybersecurity (Magistrale)
+* [Gruppo Telegram](https://t.me/joinchat/CEB_mRH55TWA6dBKsd0zuw) MSc Computer Science
+* [Gruppo Telegram](https://t.me/appliedCS_AI) BSc Applied Computer Science and Artificial intelligence
 * [Server Discord](https://discord.gg/YxENrKk) per esercizi e studio di gruppo
 * [Workspace Slack](https://ecssap.slack.com/) per gli studenti di Teledidattica "Unitelma"
 * [Pagina GitLab](https://gitlab.com/sapienzastudents/exercises) dove sono hostate esercitazioni
@@ -28,6 +32,7 @@ Indirizzi email ufficiali:
 * [Email Segreteria Didattica](mailto:segr.didattica@di.uniroma1.it), per domande relative ad esami, corsi, cambi canale, etc.
 * [Email Segreteria Studenti](mailto:segrstudenti.I3S@uniroma1.it), per domande relative a Infostud, Tasse, Bollettini etc.
 * [Email supporto tecnico Infostud](mailto:infostud@uniroma1.it) per segnalare malfunzionamenti o eventuali problemi.
+* [Email informazioni e supporto per gli OFA](ofa@uniroma1.it)
 
 ### Quale segreteria?
 
