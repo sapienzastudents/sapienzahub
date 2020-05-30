@@ -1,5 +1,5 @@
 +++
-description = "Informazioni relative al piano di studi"
+description = " Informazioni relative al piano di studi"
 title = "Piano di studi"
 type = "post"
 date = 2020-05-04

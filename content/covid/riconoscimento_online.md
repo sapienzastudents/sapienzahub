@@ -1,5 +1,5 @@
 +++
-description = "FAQ riconoscimento necessario per il sostenimento degli esami in modalita' telematica"
+description = " FAQ riconoscimento necessario per il sostenimento degli esami in modalita' telematica"
 title = "Riconoscimento Online"
 type = "post"
 +++
