@@ -1,6 +1,6 @@
 +++
 description = " Appelli in presenza per la sessione estiva"
-title = "Linee guida sessione estiva 2020"
+title = "[COVID] Sessione estiva 2020"
 type = "post"
 date = "2020-05-27"
 +++
