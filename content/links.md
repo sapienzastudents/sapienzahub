@@ -9,8 +9,8 @@ date = "2020-01-01"
 
 Gruppi generali
 
-* [Gruppo Facebook](https://m.facebook.com/groups/informaticasapienza) ufficioso per gli studenti della facoltà
-* [Canale Telegram](https://t.me/sapienzafeed) con Informazioni e Avvisi riguardanti la facoltà, i professori e i corsi
+* [Gruppo Facebook](https://m.facebook.com/groups/informaticasapienza) ufficioso per gli studenti dei corsi del Dipartimento di Informatica
+* [Canale Telegram](https://t.me/sapienzafeed) con Informazioni e Avvisi riguardanti il dipartimento, i professori e i corsi
 * [Gruppo Telegram](https://t.me/sapienzacyberclass) MSc Cybersecurity (Magistrale)
 * [Gruppo Telegram](https://t.me/joinchat/CEB_mRH55TWA6dBKsd0zuw) MSc Computer Science
 * [Gruppo Telegram](https://t.me/appliedCS_AI) BSc Applied Computer Science and Artificial intelligence
@@ -20,14 +20,14 @@ Gruppi generali
 * [Pagina GitLab](https://gitlab.com/sapienzastudents/papers) dove sono hostati gli appunti
 * [Gruppo Telegram](https://t.me/infostudapp) per il beta testing dell'app di Infostud
 
-Gruppi della Facoltà di Informatica (Triennale)
+Gruppi del Dipartimento di Informatica
 
-* [Gruppo Telegram](https://t.me/sapienzainformatica) della Facoltà di Informatica (Triennale)
-* [Gruppo Telegram](https://t.me/InformaticaSapienzaTeledidattica) della Facoltà di Informatica via telematica (Unitelma)
-* [Gruppo Telegram](https://t.me/joinchat/HqZRnxrcY0tEc3v0isuoog) del corso Basi di Dati 1
-* [Gruppo Telegram](https://t.me/basid2) del corso Basi di Dati 2
-* [Gruppo Telegram](https://t.me/joinchat/AtS6nBsS8-aCuteDf3vYNw) del corso Gestione Aziendale
-* [Gruppo Telegram](https://t.me/i3sautomi) del corso Automi Cacolabilita Complessita
+* [Gruppo Telegram](https://t.me/sapienzainformatica) del corso di Informatica (Triennale)
+* [Gruppo Telegram](https://t.me/InformaticaSapienzaTeledidattica) del corso di Informatica via telematica (Unitelma)
+* [Gruppo Telegram](https://t.me/joinchat/HqZRnxrcY0tEc3v0isuoog) dell'insegnamento Basi di Dati 1
+* [Gruppo Telegram](https://t.me/basid2) dell'insegnamento Basi di Dati 2
+* [Gruppo Telegram](https://t.me/joinchat/AtS6nBsS8-aCuteDf3vYNw) dell'insegnamento Gestione Aziendale
+* [Gruppo Telegram](https://t.me/i3sautomi) dell'insegnamento Automi Cacolabilita Complessita
 
 Informazioni importanti
 
