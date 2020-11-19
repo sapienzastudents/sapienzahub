@@ -1,6 +1,6 @@
 +++
 description = " FAQ riconoscimento necessario per il sostenimento degli esami in modalita' telematica"
-title = "Riconoscimento Online"
+title = "[COVID] Riconoscimento Online"
 type = "post"
 +++
 
