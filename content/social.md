@@ -1,4 +1,11 @@
-* [Applied Computer Science and Artificial Intelligence](https://t.me/joinchat/Oqb8Z1bOP0T4lHXNjxdIiQ)
++++
+description = "Pagina contenenti link ai gruppi social"
+title = "Link gruppi social"
+type = "post"
+date = "2020-11-19"
++++
+
+# Gruppi Telegram* [Applied Computer Science and Artificial Intelligence](https://t.me/joinchat/Oqb8Z1bOP0T4lHXNjxdIiQ)
 * [HackTheBox Sapienza](https://t.me/joinchat/Oqb8Z0mF7j09Jkfug7rQcg)
 * [Informatica Sapienza - Triennale](https://t.me/joinchat/Oqb8Z0tlJgio_PE_ITahdA)
 * [Informatica Unitelma Sapienza - Teledidattica](https://t.me/joinchat/Oqb8Z1X54toS3kqAnUHzyQ)
