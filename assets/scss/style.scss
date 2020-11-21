@@ -17,6 +17,7 @@ body {
     color: #424242;
     font-family: "Open Sans", arial, sans-serif;
     font-size: 18px;
+    margin: auto;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -168,25 +169,16 @@ table {
 /* General Appearance */
 /* ============================================================ */
 
+#wrapper {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
 .container {
     margin: 0 auto;
     position: relative;
     width: 100%;
     max-width: 889px;
-}
-
-#wrapper {
-    height: auto;
-        min-height: 100%;
-    /* This must be the same as the height of the footer */
-    margin-bottom: -265px;
-
-    &:after {
-        content: "";
-        display: block;
-        /* This must be the same as the height of the footer */
-        height: 265px;
-    }
 }
 
 .button {
@@ -546,11 +538,16 @@ table {
 .footer {
     background: $secondary;
     color: #D3D3D3;
-    height: 265px;
-    margin-top: 95px;
     overflow: auto;
 
-    .site-title-wrapper { margin: 80px auto 35px; }
+    .container {
+        margin-bottom: 0.5em;
+    }
+
+    .site-title-wrapper {
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
 
     .site-title a:hover,
     .button-square:hover {
@@ -559,17 +556,15 @@ table {
 }
 
 .footer-copyright {
-    color: #656565;
+    color: #D6D6D6;
     font-size: 14px;
-    margin: 0;
+    margin: auto;
     text-align: center;
     text-transform: uppercase;
 
     a {
-        color: #656565;
+        color: #D6D6D6;
         font-weight: 700;
-
-        &:hover { color: #FEFEFE; }
     }
 }
 
