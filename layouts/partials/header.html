@@ -15,14 +15,8 @@
         <link rel="stylesheet" href="{{ $style.Permalink }}">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,600,700,300&subset=latin,cyrillic-ext,latin-ext,cyrillic">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-        {{ if .OutputFormats.Get "RSS" }}
-            <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml">
-        {{ end }}
-        {{ partial "extra-in-head.html" . }}
     </head>
     <body>
-        {{ template "_internal/google_analytics.html" . }}
-
         <div id="wrapper">
             <header class="site-header">
                 <div class="container">
