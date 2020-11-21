@@ -314,16 +314,6 @@ table {
     a:hover { color: $primary; }
 }
 
-.post-line {
-    &:after {
-        border-bottom: 1px dotted $secondary;
-        content: "";
-        display: block;
-        margin: 40px auto 0;
-        width: 100px;
-    }
-}
-
 .post-content {
     a:hover {
         border-bottom: 1px dotted $primary;
