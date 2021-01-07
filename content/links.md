@@ -1,5 +1,5 @@
 +++
-description = "Pagina contenenti link utile a gruppi"
+description = "Pagina contenenti link utili"
 title = "Link utili"
 type = "post"
 date = ""
@@ -15,9 +15,9 @@ date = ""
 - [Email supporto tecnico Infostud](mailto:infostud@uniroma1.it) per segnalare malfunzionamenti o eventuali problemi.
 - [Email informazioni e supporto per gli OFA](ofa@uniroma1.it)
 
-### Gruppi
-- [Gruppo Facebook](https://m.facebook.com/groups/informaticasapienza) ufficioso per gli studenti della facoltà
+### Altri link
 - [Canale Telegram](https://t.me/sapienzafeed) con Informazioni e Avvisi riguardanti la facoltà, i professori e i corsi
+- [Gruppo Facebook](https://m.facebook.com/groups/informaticasapienza) ufficioso per gli studenti della facoltà
 - [Workspace Slack](https://ecssap.slack.com/) per gli studenti di Teledidattica "Unitelma"
 - [Pagina GitLab](https://gitlab.com/sapienzastudents/exercises) dove sono mantenuti esercitazioni
 - [Pagina GitLab](https://gitlab.com/sapienzastudents/papers) dove sono mantenuti gli appunti
