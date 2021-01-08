@@ -76,7 +76,7 @@ le [indicazioni in questa pagina!](/social_add/)
 * [[i3s] Verifica Validazione Sistemi](https://t.me/joinchat/VD1dKUQ1mqcdqKsp)
 
 ## Ingegneria Informatica e Automatica
-* [Ingegneria Informatica e Automatica](https://t.me/joinchat/QPY5ZybG06zx-nGT)
+* [Ingegneria Informatica e Automatica](https://t.me/joinchat/QPY5Zxhpik_jijat)
 
 ## Matematica (triennale)
 * [Matematica Sapienza - Triennale](https://t.me/joinchat/VGCkmQ0R8lp80u1L)
