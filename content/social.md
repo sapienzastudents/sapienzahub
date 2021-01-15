@@ -2,7 +2,7 @@
 description = "Pagina contenenti link ai gruppi social"
 title = "Link gruppi social"
 type = "post"
-date = "2021-01-13"
+date = "2021-01-15"
 +++
 
 # Gruppi Telegram
@@ -12,91 +12,94 @@ le [indicazioni in questa pagina!](/social_add/)
 
 
 ## Applied Computer Science and Artificial Intelligence
-* [Applied Computer Science and Artificial Intelligence](https://t.me/joinchat/Vs4_RHGi2gcUX1O7)
+* [Applied Computer Science and Artificial Intelligence](https://t.me/joinchat/Vs4_RNhxrjjSwMTw)
 
 ## Artificial Intelligence and Robotics
 
 ### First year 2020/2021
-* [AIRO 18/19](https://t.me/joinchat/SvzCPgrT-Lkd9nG6)
-* [AIRO 1st year (2020/2021)](https://t.me/joinchat/TVzggnQt2thGJZzg)
+* [AIRO 18/19](https://t.me/joinchat/SvzCPutEwY-ZpdCI)
+* [AIRO 1st year (2020/2021)](https://t.me/joinchat/TVzggmNkqCfnIyAx)
 
 ### Secondo anno 2019/2020
-* [MARR - 19/20](https://t.me/joinchat/WSt257LgjiZPe0ll)
+* [MARR - 19/20](https://t.me/joinchat/WSt25y1i0bkWrN9G)
 
 ## Computer Science - Informatica (Magistrale)
-* [Distributed Systems](https://t.me/joinchat/VKIsELC0ShfsjqkI)
+* [Distributed Systems](https://t.me/joinchat/VKIsELlssOueKwDm)
 
 ## Cybersecurity
-* [Computer Systems and Programming](https://t.me/joinchat/Up9L-2eJIYB8Jld6)
-* [Cyber and Computer Law](https://t.me/joinchat/WHnrC9ePNVPrY-Qg)
-* [Data & Network Security](https://t.me/joinchat/Te_HbMyvRoGUhgkR)
-* [Economics of Technology and Management](https://t.me/joinchat/U6AILoAj3TxlBalw)
-* [Machine Learning 1047635](https://t.me/joinchat/UGadZ3-70PcWhXeC)
-* [Risk Management](https://t.me/joinchat/TL2k3Q8dx-weCoFA)
-* [[PND] Practical Network Defense](https://t.me/joinchat/RDOCbjqpVzNgvAts)
-* [[Students] Cybersecurity MSc @ Sapienza](https://t.me/joinchat/QtRSimmu5KPyL55C)
+* [Computer Systems and Programming](https://t.me/joinchat/Up9L-7gJ_-lWLRCH)
+* [Cryptomania](https://t.me/joinchat/TqFXuSauE7huEEkv)
+* [Cyber and Computer Law](https://t.me/joinchat/WHnrCxzfXoXZ8NhG)
+* [Data & Network Security](https://t.me/joinchat/Te_HbLfB74tPVByW)
+* [Economics of Technology and Management](https://t.me/joinchat/U6AILqBKgPnwC22-)
+* [Machine Learning 1047635](https://t.me/joinchat/UGadZyEiMF-dUv87)
+* [Risk Management](https://t.me/joinchat/TL2k3bEy5_EgXR-e)
+* [[PND] Practical Network Defense](https://t.me/joinchat/RDOCbrqwAqYPJd3x)
+* [[Students] Cybersecurity MSc @ Sapienza](https://t.me/joinchat/QtRSimjsbGQ2RTli)
 
 ## Engineering in computer science
-* [Engineering in Computer Science](https://t.me/joinchat/Snj5M6M-OV-MWfbW)
+* [Engineering in Computer Science](https://t.me/joinchat/Snj5M9g_tzkUR0-k)
 
 ## Gruppi generali Sapienza
-* [HackTheBox Sapienza](https://t.me/joinchat/SYXuPZS1o3ATTl43)
-* [Infostud Lab App](https://t.me/joinchat/TWAKRNNo0SLVVDh4)
-* [Sapienza - discussioni generali](https://t.me/joinchat/RQBiD1k0fyIHUyUr)
+* [HackTheBox Sapienza](https://t.me/joinchat/SYXuPRE2zNE_B_6u)
+* [Infostud Lab App](https://t.me/joinchat/TWAKRK7DtuVs2GRw)
+* [Sapienza - discussioni generali](https://t.me/joinchat/RQBiD8WRXkhfKmPc)
 
 ## Informatica (Triennale)
-* [Informatica Sapienza - Triennale](https://t.me/joinchat/S2UmCPWC-Op31E4v)
-* [Informatica Unitelma Sapienza - Teledidattica](https://t.me/joinchat/Vfni2gUBLmCGsdm_)
-* [Ing. Sw. Unitelma](https://t.me/joinchat/S2g2QEDKEmRytnU3)
+* [Informatica Sapienza - Triennale](https://t.me/joinchat/S2UmCMMGNWx9lni5)
+* [Informatica Unitelma Sapienza - Teledidattica](https://t.me/joinchat/Vfni2lUH15ad_-AX)
+* [Ing. Sw. Unitelma](https://t.me/joinchat/S2g2QFqdjcZaReST)
 
 ### Primo anno
-* [[i3s] Architetture Elaboratori](https://t.me/joinchat/RVQiOkCfiCxJ9EQF)
-* [[i3s] Differenziale](https://t.me/joinchat/VDyBdEBg2WKfn5bt)
-* [[i3s] Fondamenti di Programmazione](https://t.me/joinchat/V9TwkXoDPh-17ip6)
-* [[i3s] Integrale](https://t.me/joinchat/SUhvG-9ydGpcregI)
-* [[i3s] Intro Algoritmi](https://t.me/joinchat/RPFJu-KScEi5i9Rl)
-* [[i3s] Metodi Matematici](https://t.me/joinchat/VZBOxQGOr0JuBNZs)
-* [[i3s] Metodologie di Programmazione](https://t.me/joinchat/R6JDgIMgncP0pE9d)
-* [[i3s] Sistemi digitali](https://t.me/joinchat/Q5baYhCKPTXugeoW)
+* [[i3s] Architetture Elaboratori](https://t.me/joinchat/RVQiOtRoo4EW8bmR)
+* [[i3s] Differenziale](https://t.me/joinchat/VDyBdPOEAN3e_9d7)
+* [[i3s] Fondamenti di Programmazione](https://t.me/joinchat/V9TwkWEuRCaGc3zM)
+* [[i3s] Integrale](https://t.me/joinchat/SUhvGwwfCxixX76y)
+* [[i3s] Intro Algoritmi](https://t.me/joinchat/RPFJuzNIzAqhTMVI)
+* [[i3s] Metodi Matematici](https://t.me/joinchat/VZBOxYTCDggsLdmS)
+* [[i3s] Metodologie di Programmazione](https://t.me/joinchat/R6JDgPcdawupVlxj)
+* [[i3s] Sistemi digitali](https://t.me/joinchat/Q5baYmaiRewC17Nv)
 
 ### Secondo anno
-* [[i3s] Algebra](https://t.me/joinchat/VuONLUTNrN5dWgWB)
-* [[i3s] BD1](https://t.me/joinchat/TBSHkJ1wGWihzj9H)
-* [[i3s] BD2](https://t.me/joinchat/QmCRo406sENooKWZ)
-* [[i3s] Probabilità](https://t.me/joinchat/SGZbWEhJ1Z_QcN3Y)
-* [[i3s] Prog Algoritmi](https://t.me/joinchat/SL4pzDd18HDZqAfE)
-* [[i3s] Reti Elaboratori](https://t.me/joinchat/V4W-Q6T9FZD-wXyx)
-* [[i3s] SO1](https://t.me/joinchat/UFXLKIVYh80mbR9E)
-* [[i3s] SO2](https://t.me/joinchat/SkPa5Ma32d-lw44O)
+* [[i3s] Algebra](https://t.me/joinchat/VuONLecuzsew9IiG)
+* [[i3s] BD1](https://t.me/joinchat/TBSHkLQQB0C-Rafw)
+* [[i3s] BD2](https://t.me/joinchat/QmCRoyUxejpS9dsp)
+* [[i3s] Probabilità](https://t.me/joinchat/SGZbWB730Uo3oS6p)
+* [[i3s] Prog Algoritmi](https://t.me/joinchat/SL4pzOeN61HteZq_)
+* [[i3s] Reti Elaboratori](https://t.me/joinchat/V4W-QxZ-pNYTr6Ni)
+* [[i3s] SO1](https://t.me/joinchat/UFXLKCLKzZqcZzWc)
+* [[i3s] SO2](https://t.me/joinchat/SkPa5JCtTVLMdkJ_)
 
 ### Terzo anno
-* [Modelli e ottimizzazione](https://t.me/joinchat/TyMj4IJhcP80sdNT)
-* [[i3s] - Compilatori](https://t.me/joinchat/SpmBSyY7jjuJcF54)
-* [[i3s] Automi Calcolabilità e Complessità](https://t.me/joinchat/RnP075ma9a5N2Rn0)
-* [[i3s] Computer Graphics](https://t.me/joinchat/UkvugTS89MBYqq28)
-* [[i3s] Gamification](https://t.me/joinchat/TDCwJkOn2nW80qod)
-* [[i3s] Gestione Aziendale](https://t.me/joinchat/UwPBxKzg94Fsy6cq)
-* [[i3s] IUM](https://t.me/joinchat/SH7YpWQRnURAQjpV)
-* [[i3s] Ingegneria del Software](https://t.me/joinchat/SXLzmnmKHEFSURkv)
-* [[i3s] Linguaggi di Programmazione](https://t.me/joinchat/WMcOONFmVxyfAvSe)
-* [[i3s] Multicore](https://t.me/joinchat/VBYueOLlJBUY1fHG)
-* [[i3s] Programmazione Web](https://t.me/joinchat/SNkXYMCiDjBGnygM)
-* [[i3s] Sicurezza](https://t.me/joinchat/VOfFTPgW6d-jHf-1)
-* [[i3s] Verifica Validazione Sistemi](https://t.me/joinchat/VD1dKeRyIthITBPR)
+* [Modelli e ottimizzazione](https://t.me/joinchat/TyMj4EFRLQ-sV_VT)
+* [[i3s] - Compilatori](https://t.me/joinchat/SpmBS6z6pEY0aVRL)
+* [[i3s] Automi Calcolabilità e Complessità](https://t.me/joinchat/RnP077gPS0s8xUbQ)
+* [[i3s] Computer Graphics](https://t.me/joinchat/UkvugaTQMcn4DvtZ)
+* [[i3s] Gamification](https://t.me/joinchat/TDCwJq4LO462VMEm)
+* [[i3s] Gestione Aziendale](https://t.me/joinchat/UwPBxFXFdNVza3Fk)
+* [[i3s] IUM](https://t.me/joinchat/SH7YpZJr-9R0S51g)
+* [[i3s] Ingegneria del Software](https://t.me/joinchat/SXLzmrb42sEsqMep)
+* [[i3s] Linguaggi di Programmazione](https://t.me/joinchat/WMcOOHd0Kwr80M8U)
+* [[i3s] Multicore](https://t.me/joinchat/VBYueFtOAspcUnqN)
+* [[i3s] Programmazione Web](https://t.me/joinchat/SNkXYLUOnEaO0Qtr)
+* [[i3s] Sicurezza](https://t.me/joinchat/VOfFTIyeQKASK8c7)
+* [[i3s] Verifica Validazione Sistemi](https://t.me/joinchat/VD1dKV2w-1-JMx-e)
 
 ## Ingegneria Informatica e Automatica
-* [Ingegneria Informatica e Automatica](https://t.me/joinchat/QPY5Z8mNOgEVicOW)
+* [Ingegneria Informatica e Automatica](https://t.me/joinchat/QPY5Z_odud5BJ5MT)
 
 ### Primo anno
-* [Analisi 1](https://t.me/joinchat/R-UAzls7P_G_4Vo6)
-* [Tecniche](https://t.me/joinchat/TOU66yxM_DUq_Hvk)
+* [Analisi 1](https://t.me/joinchat/R-UAztnFuDtMFTUy)
+* [Fisica Germano](https://t.me/joinchat/U6n1R_d7KznWbGPy)
+* [Tecniche](https://t.me/joinchat/TOU667S_0zPWwjcS)
 
 ### Secondo Anno
-* [Analisi 2](https://t.me/joinchat/SjYv9vXvFVVEeURh)
+* [Analisi 2](https://t.me/joinchat/SjYv9sUyR-vJt8n5)
+* [Ricerca Operativa 2020](https://t.me/joinchat/SEFmF9fyPGbgt0TZ)
 
 ### Terzo anno
-* [Economia](https://t.me/joinchat/WGPD9tZkdnBjsgz4)
+* [Economia](https://t.me/joinchat/WGPD9rFw2Z2blHtL)
 
 ## Matematica (triennale)
-* [Matematica Sapienza - Triennale](https://t.me/joinchat/VGCkmRxtctzUXLrt)
+* [Matematica Sapienza - Triennale](https://t.me/joinchat/VGCkmRImcCQ7Q41S)
 ## Senza categoria
