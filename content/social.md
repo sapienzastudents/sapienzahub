@@ -7,101 +7,102 @@ date = "2021-01-19"
 
 # Gruppi Telegram
 
-Qui di seguito trovi un indice di gruppi di studenti della Sapienza su Telegram. Se vuoi aggiungere il tuo gruppo, segui
-le [indicazioni in questa pagina!](/social_add/)
+Qui di seguito trovi un indice di gruppi di studenti della Sapienza su Telegram. **Clicca su START dopo che si è aperto Telegram per avere il link**.
+
+Se vuoi aggiungere il tuo gruppo, segui le [indicazioni in questa pagina!](/social_add/)
 
 
 ## Applied Computer Science and Artificial Intelligence
-* [Applied Computer Science and Artificial Intelligence](https://t.me/joinchat/Vs4_RI0jDkXduFke)
+* [Applied Computer Science and Artificial Intelligence](https://telegram.me/SapienzaStudentsBot?start=ca466843-ab43-4f5d-a4f0-ec9a830aaa02)
 
 ## Artificial Intelligence and Robotics
 
 ### First year 2020/2021
-* [AIRO 18/19](https://t.me/joinchat/SvzCPr_EwrDtFSBH)
-* [AIRO 1st year (2020/2021)](https://t.me/joinchat/TVzggk4I-I0pwKGv)
+* [AIRO 18/19](https://telegram.me/SapienzaStudentsBot?start=5e50de48-05e5-4dca-9833-3ba39470aa51)
+* [AIRO 1st year (2020/2021)](https://telegram.me/SapienzaStudentsBot?start=78b1ec40-3dc6-4d1e-bba6-82bdbf9c639e)
 
 ### Secondo anno 2019/2020
-* [MARR - 19/20](https://t.me/joinchat/WSt252aaJx9hq0p_)
+* [MARR - 19/20](https://telegram.me/SapienzaStudentsBot?start=f6a5afcc-6bd6-4a71-9eb8-f01f3d35e5c9)
 
 ## Computer Science - Informatica (Magistrale)
-* [Computer Science Sapienza](https://t.me/joinchat/SjAEbZwODQ0-0PbA)
-* [Distributed Systems](https://t.me/joinchat/VKIsEIczueMf6M5h)
-* [[AUTONOMOUS NETWORKING]](https://t.me/joinchat/S2AJbmPzM3-P_GvE)
+* [Computer Science Sapienza](https://telegram.me/SapienzaStudentsBot?start=b9b2bab0-9df5-46c7-959b-d4b0b44c8f49)
+* [Distributed Systems](https://telegram.me/SapienzaStudentsBot?start=4754399a-dc06-4299-bf42-b125c73f23cf)
+* [[AUTONOMOUS NETWORKING]](https://telegram.me/SapienzaStudentsBot?start=1b7eaa30-b008-4858-addd-262ac6f89916)
 
 ## Cybersecurity
-* [Computer Systems and Programming](https://t.me/joinchat/Up9L-w1tC6XjLwor)
-* [Cryptomania](https://t.me/joinchat/TqFXua7jZC-QXTj5)
-* [Cyber and Computer Law](https://t.me/joinchat/WHnrC8vddzjun1Rd)
-* [Data & Network Security](https://t.me/joinchat/Te_HbMxa6ZMx_A3_)
-* [Economics of Technology and Management](https://t.me/joinchat/U6AILmkITmPnm01I)
-* [Machine Learning 1047635](https://t.me/joinchat/UGadZ-eMQCO8KtIR)
-* [Risk Management](https://t.me/joinchat/TL2k3U4U1I0YwDaz)
-* [[PND] Practical Network Defense](https://t.me/joinchat/RDOCbj-OZLx69e4_)
-* [[Students] Cybersecurity MSc @ Sapienza](https://t.me/joinchat/QtRSir0nHgHcLkH5)
+* [Computer Systems and Programming](https://telegram.me/SapienzaStudentsBot?start=5efaae49-4b3e-4187-a6e4-efc91b8d6b39)
+* [Cryptomania](https://telegram.me/SapienzaStudentsBot?start=15022714-3cba-4fb4-807a-b1d8808d452f)
+* [Cyber and Computer Law](https://telegram.me/SapienzaStudentsBot?start=4eab65e7-ae7e-4ee1-a049-f9d005ab6724)
+* [Data & Network Security](https://telegram.me/SapienzaStudentsBot?start=0239b2c9-9018-44bf-a5bd-64cd8e303d88)
+* [Economics of Technology and Management](https://telegram.me/SapienzaStudentsBot?start=7a6b61b0-205b-44a6-a0f6-31e56718e6f2)
+* [Machine Learning 1047635](https://telegram.me/SapienzaStudentsBot?start=ad6d6687-d2b6-4c79-b171-5fdfc3474aa8)
+* [Risk Management](https://telegram.me/SapienzaStudentsBot?start=b3c1862a-d1dc-47aa-b66d-f7b8001d56cd)
+* [[PND] Practical Network Defense](https://telegram.me/SapienzaStudentsBot?start=3944fe5f-e0ab-4f9f-bad0-7ed079724c20)
+* [[Students] Cybersecurity MSc @ Sapienza](https://telegram.me/SapienzaStudentsBot?start=ddb7f929-7a5f-4dd0-8128-18fee48c8640)
 
 ## Engineering in computer science
-* [Engineering in Computer Science](https://t.me/joinchat/Snj5MyEN3preqASk)
+* [Engineering in Computer Science](https://telegram.me/SapienzaStudentsBot?start=9f6157a2-a0fd-420d-8a6e-c5366e17fd25)
 
 ## Gruppi generali Sapienza
-* [HackTheBox Sapienza](https://t.me/joinchat/SYXuPT1FDm0ydPhc)
-* [Infostud Lab App](https://t.me/joinchat/TWAKRAWxryPE0Ltj)
-* [Sapienza - discussioni generali](https://t.me/joinchat/RQBiD32WSQmKP4om)
+* [HackTheBox Sapienza](https://telegram.me/SapienzaStudentsBot?start=cfc38266-1d13-457b-8df4-acad8b1c3b17)
+* [Infostud Lab App](https://telegram.me/SapienzaStudentsBot?start=b2c040c1-79f1-4d87-a6c3-b7aed5a2a9b6)
+* [Sapienza - discussioni generali](https://telegram.me/SapienzaStudentsBot?start=bc157ad6-1dcb-4512-ac31-8e4145b0798e)
 
 ## Informatica (Triennale)
-* [Informatica Sapienza - Triennale](https://t.me/joinchat/S2UmCMcey8-IbQ30)
-* [Informatica Unitelma Sapienza - Teledidattica](https://t.me/joinchat/Vfni2vSltgwoPZu0)
-* [Ing. Sw. Unitelma](https://t.me/joinchat/S2g2QAv_Xix6a4Jn)
+* [Informatica Sapienza - Triennale](https://telegram.me/SapienzaStudentsBot?start=21310208-3060-404e-a448-f7b4cf997897)
+* [Informatica Unitelma Sapienza - Teledidattica](https://telegram.me/SapienzaStudentsBot?start=1af348db-1d50-45d8-b47b-8907db8c0cf4)
+* [Ing. Sw. Unitelma](https://telegram.me/SapienzaStudentsBot?start=873d67c8-60e8-4465-a207-c18e6933c4ab)
 
 ### Primo anno
-* [[i3s] Architetture Elaboratori](https://t.me/joinchat/RVQiOiUv8encCRAx)
-* [[i3s] Differenziale](https://t.me/joinchat/VDyBdDPqWf1MwkWN)
-* [[i3s] Fondamenti di Programmazione](https://t.me/joinchat/V9TwkRVClNDN4g_n)
-* [[i3s] Integrale](https://t.me/joinchat/SUhvG1EH4ruaV2Eh)
-* [[i3s] Intro Algoritmi](https://t.me/joinchat/RPFJu2lRFlOMhJgm)
-* [[i3s] Metodi Matematici](https://t.me/joinchat/VZBOxXAxKt76__w1)
-* [[i3s] Metodologie di Programmazione](https://t.me/joinchat/R6JDgCKe8MstwOdk)
-* [[i3s] Sistemi digitali](https://t.me/joinchat/Q5baYlEJ9HlSwfmI)
+* [[i3s] Architetture Elaboratori](https://telegram.me/SapienzaStudentsBot?start=8dcc2816-13dc-4604-8d24-fec625be6696)
+* [[i3s] Differenziale](https://telegram.me/SapienzaStudentsBot?start=d84202c6-f89c-46e2-b6a7-0b3bf353da19)
+* [[i3s] Fondamenti di Programmazione](https://telegram.me/SapienzaStudentsBot?start=363b7924-92bc-4bc3-848e-003bf4d8b62e)
+* [[i3s] Integrale](https://telegram.me/SapienzaStudentsBot?start=7c80f540-de62-4cba-9c9c-a3196ca6e782)
+* [[i3s] Intro Algoritmi](https://telegram.me/SapienzaStudentsBot?start=9b504b1a-a26d-4608-936f-abe199cfee54)
+* [[i3s] Metodi Matematici](https://telegram.me/SapienzaStudentsBot?start=8d42a85d-492a-44c3-9979-4522d5cc8c2e)
+* [[i3s] Metodologie di Programmazione](https://telegram.me/SapienzaStudentsBot?start=0dcf818a-1812-4405-92d9-b95c71c25bf5)
+* [[i3s] Sistemi digitali](https://telegram.me/SapienzaStudentsBot?start=4c9b8c5b-a0fd-4086-8ba8-c9a1213f5cc7)
 
 ### Secondo anno
-* [[i3s] Algebra](https://t.me/joinchat/VuONLfmEY257Q3BS)
-* [[i3s] BD1](https://t.me/joinchat/TBSHkM6Wi20HurGx)
-* [[i3s] BD2](https://t.me/joinchat/QmCRo5ACOrqds2v9)
-* [[i3s] Probabilità](https://t.me/joinchat/SGZbWEl9E7VOz0h4)
-* [[i3s] Prog Algoritmi](https://t.me/joinchat/SL4pzDRLepIwE1Sv)
-* [[i3s] Reti Elaboratori](https://t.me/joinchat/V4W-Q0y8Q7iJUFsv)
-* [[i3s] SO1](https://t.me/joinchat/UFXLKPlFK-VO3gdI)
-* [[i3s] SO2](https://t.me/joinchat/SkPa5GMNDbehCCtc)
+* [[i3s] Algebra](https://telegram.me/SapienzaStudentsBot?start=f61359fa-360f-4e5b-9bc2-eed8238b09c9)
+* [[i3s] BD1](https://telegram.me/SapienzaStudentsBot?start=3056fe41-a5c3-4611-8da1-d6a2d96fe10f)
+* [[i3s] BD2](https://telegram.me/SapienzaStudentsBot?start=a3777fc9-f480-43d9-8a1d-c067cf0a37db)
+* [[i3s] Probabilità](https://telegram.me/SapienzaStudentsBot?start=91fa1405-f0e9-4dd1-9c4c-8efa0907fec1)
+* [[i3s] Prog Algoritmi](https://telegram.me/SapienzaStudentsBot?start=c5646b68-2c83-41e9-8985-0c1075770e25)
+* [[i3s] Reti Elaboratori](https://telegram.me/SapienzaStudentsBot?start=0ee134d5-b603-4d9e-b8e0-9b799adc8fc1)
+* [[i3s] SO1](https://telegram.me/SapienzaStudentsBot?start=bf2af921-1542-46e4-9762-ec3b23f5a29f)
+* [[i3s] SO2](https://telegram.me/SapienzaStudentsBot?start=1a721aac-960b-423b-9e18-02dec23471a4)
 
 ### Terzo anno
-* [Modelli e ottimizzazione](https://t.me/joinchat/TyMj4Pw2ovcOBJ_k)
-* [[i3s] - Compilatori](https://t.me/joinchat/SpmBS4fkc-hvMHXi)
-* [[i3s] Automi Calcolabilità e Complessità](https://t.me/joinchat/RnP075ghO-r0dkbP)
-* [[i3s] Computer Graphics](https://t.me/joinchat/Ukvuge3_0HFSTGNG)
-* [[i3s] Gamification](https://t.me/joinchat/TDCwJlvG2eTWf07R)
-* [[i3s] Gestione Aziendale](https://t.me/joinchat/UwPBxB8aQ6c7e2gH)
-* [[i3s] IUM](https://t.me/joinchat/SH7YpThNqz3YQWns)
-* [[i3s] Ingegneria del Software](https://t.me/joinchat/SXLzmtPDKnuRrMOC)
-* [[i3s] Linguaggi di Programmazione](https://t.me/joinchat/WMcOOEBH1p7Sbw6t)
-* [[i3s] Multicore](https://t.me/joinchat/VBYueE2dD3f-TF4C)
-* [[i3s] Programmazione Web](https://t.me/joinchat/SNkXYCR-EOX1JOVs)
-* [[i3s] Sicurezza](https://t.me/joinchat/VOfFTD3psZx9wMlQ)
-* [[i3s] Verifica Validazione Sistemi](https://t.me/joinchat/VD1dKVZbAsMGUnun)
+* [Modelli e ottimizzazione](https://telegram.me/SapienzaStudentsBot?start=7ea820f6-7000-4c27-bccd-e517cc86f2f8)
+* [[i3s] - Compilatori](https://telegram.me/SapienzaStudentsBot?start=6fa0dc1e-973f-4007-9235-702b6cd30438)
+* [[i3s] Automi Calcolabilità e Complessità](https://telegram.me/SapienzaStudentsBot?start=6731125d-8a02-498a-83fe-7585aa74619d)
+* [[i3s] Computer Graphics](https://telegram.me/SapienzaStudentsBot?start=784bd728-c21f-41a5-a6ea-0c3e125372c2)
+* [[i3s] Gamification](https://telegram.me/SapienzaStudentsBot?start=2c11ee3c-e583-4df3-b4a5-ed1dbd45b1b4)
+* [[i3s] Gestione Aziendale](https://telegram.me/SapienzaStudentsBot?start=3f1482ff-cb77-4689-8a55-92e7f0c82791)
+* [[i3s] IUM](https://telegram.me/SapienzaStudentsBot?start=cb81dab7-9553-439b-850c-7585bc413a1d)
+* [[i3s] Ingegneria del Software](https://telegram.me/SapienzaStudentsBot?start=f71ff4fc-8d0e-4c09-bd0a-f2e98fc22e73)
+* [[i3s] Linguaggi di Programmazione](https://telegram.me/SapienzaStudentsBot?start=d3b30801-5d30-489b-a6b5-c42688c898b4)
+* [[i3s] Multicore](https://telegram.me/SapienzaStudentsBot?start=5e452bd1-3ccc-4426-a96e-d2812a28b61f)
+* [[i3s] Programmazione Web](https://telegram.me/SapienzaStudentsBot?start=fa45b3bc-266c-432c-b841-ffb4541c1386)
+* [[i3s] Sicurezza](https://telegram.me/SapienzaStudentsBot?start=d94aa0b6-9255-41b6-b4e3-5f99de9da345)
+* [[i3s] Verifica Validazione Sistemi](https://telegram.me/SapienzaStudentsBot?start=1b134f44-8935-42f8-9782-c66a7f030a7a)
 
 ## Ingegneria Informatica e Automatica
-* [Ingegneria Informatica e Automatica](https://t.me/joinchat/QPY5Zy-seF90Qxcr)
+* [Ingegneria Informatica e Automatica](https://telegram.me/SapienzaStudentsBot?start=314546fa-b8bc-4e60-ada0-90096aec0a7a)
 
 ### Primo anno
-* [Analisi 1](https://t.me/joinchat/R-UAzizmr332NXAo)
-* [Fisica Germano](https://t.me/joinchat/U6n1R_41z2fSdEcF)
-* [Tecniche](https://t.me/joinchat/TOU665ej4-RgrvZq)
+* [Analisi 1](https://telegram.me/SapienzaStudentsBot?start=10b81afd-ebdc-4f67-9623-5ac78e1f60c2)
+* [Fisica Germano](https://telegram.me/SapienzaStudentsBot?start=94581127-9d9c-4003-9914-219a50061820)
+* [Tecniche](https://telegram.me/SapienzaStudentsBot?start=8ecb8235-d133-487f-b860-a26dfd6e731a)
 
 ### Secondo Anno
-* [Analisi 2](https://t.me/joinchat/SjYv9jjLgIORNQK7)
-* [Ricerca Operativa 2020](https://t.me/joinchat/SEFmF8UBpNXd-Scn)
+* [Analisi 2](https://telegram.me/SapienzaStudentsBot?start=2b7f3535-2f92-45d7-a5b2-6f9a8593d07b)
+* [Ricerca Operativa 2020](https://telegram.me/SapienzaStudentsBot?start=d0a7f5e5-2c62-41bf-a91f-8a996dcec0ad)
 
 ### Terzo anno
-* [Economia](https://t.me/joinchat/WGPD9laq1F7aN85E)
+* [Economia](https://telegram.me/SapienzaStudentsBot?start=2735bdb8-84cd-4ded-85b4-ff00b56f9bd2)
 
 ## Matematica (triennale)
-* [Matematica Sapienza - Triennale](https://t.me/joinchat/VGCkmXEhytXbhCIg)
+* [Matematica Sapienza - Triennale](https://telegram.me/SapienzaStudentsBot?start=d74ff592-e698-4364-837e-bab45b58273e)
 ## Senza categoria
