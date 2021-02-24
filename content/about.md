@@ -13,7 +13,7 @@ risorse universitarie.
 
 Chi siamo e come contattarci:
 
-* [Alessio Giovannini](https://t.me/solifugo)
+* [Alessio Giovannini](https://t.me/alessio_giovannini)
 * [Andrea Gasparini](https://t.me/andreagasparini)
 * [Emanuele Petriglia](https://t.me/ema-pe)
 * [Enrico Bassetti](https://t.me/Enrico204)
