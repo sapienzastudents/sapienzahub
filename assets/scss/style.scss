@@ -768,16 +768,17 @@ details {
     margin-bottom: .5em;    // space between multiple elements
 }
 
+details[open] > summary::before {
+    transform: rotate(90deg);
+}
+
 summary {
     font-weight: bold;
     margin: -.5em -.5em 0;
     padding: .5em;
+    background-color: #f4f2f2;
 }
 
 details[open] {
     padding: .5em;
-}
-
-details[open] summary {
-    margin-bottom: .5em;
 }
