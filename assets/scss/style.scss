@@ -758,3 +758,27 @@ table {
 
     .footer-copyright { padding: 0 10px; }
 }
+
+/* ============================================================ */
+/* FAQ */
+/* ============================================================ */
+details {
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: .5em .5em 0;
+    margin-bottom: .5em;    // space between multiple elements
+}
+
+summary {
+    font-weight: bold;
+    margin: -.5em -.5em 0;
+    padding: .5em;
+}
+
+details[open] {
+    padding: .5em;
+}
+
+details[open] summary {
+    margin-bottom: .5em;
+}
