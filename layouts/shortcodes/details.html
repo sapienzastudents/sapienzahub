@@ -1,6 +1,17 @@
 <details {{ if or (.Get "open") (in .Params "open") }}open{{ end }}>
   <summary>{{ cond .IsNamedParams (.Get "title") (.Get 0) }}</summary>
   <div class="markdown-inner">
-    {{ .Inner | markdownify }}
+  <!--
+    See: https://discourse.gohugo.io/t/markdownify-and-paragraphs/15883/2
+    Single block of text is not rendered as p
+  -->
+  {{ $markdown := .Inner | markdownify }}
+
+  {{ if not ( strings.Contains $markdown "<p>" ) }}
+  <p>{{ $markdown }}</p>
+  {{ else }}
+  {{ $markdown }}
+  {{ end }}
+
   </div>
 </details>
