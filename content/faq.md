@@ -8,6 +8,7 @@ date = "2021-09-28"
 # FAQ
 Un elenco delle domande più richieste dagli studenti, divise per categoria e per dipartimento.
 
+---
 ## Informatica
 
 [Su questa pagina](https://www.studiareinformatica.uniroma1.it/) trovi tutte le informazioni sul corso di studio e nei link a sinistra della pagina:  il **regolamento** didattico, i **contenuti degli insegnamenti**, il **calendario didattico** per sapere come è organizzato il percorso di studi.
@@ -110,9 +111,7 @@ Nota che l'incremento massimo (per il punto 2 e 3 sommati) è pari a 13 punti pe
 ### Tirocinio
 [comment]: # (Differenza tirocinio tesi)
 {{< details title="Che differenza c'è tra tirocinio e tesi?">}}
-La terminologia corretta è **tirocinio** per la triennale (con presentazione
-della *relazione di tirocinio*) e **tesi** per la magistrale (con presentazione della vera e
-propria *tesi*).
+La terminologia corretta è **tirocinio** per la triennale (con presentazione della *relazione di tirocinio*) e **tesi** per la magistrale (con presentazione della vera e propria *tesi*).
 {{< /details >}}
 
 {{< details title="Posso fare un tirocinio in azienda?">}}
@@ -147,9 +146,11 @@ Quand’è che il Settore interviene per recuperare un credito dell’Amministra
 In caso di esito negativo del tentato recupero stragiudiziale del credito, avviato dapprima da un Dipartimento o comunque ad opera di una struttura periferica dell’Ateneo e successivamente tramite il Settore Recupero Crediti, gli avvocati in servizio presso il Settore Contenzioso Civile, Tributario e Amministrativo-Contabile potranno essere incaricati dell’esperimento, o meno, di ogni utile iniziativa giudiziale (ad es.: ricorso per ingiunzione o atto di citazione, etc.).
 {{< /details >}}
 
-[comment]: # (Diffida PEC)
+[comment]: # ("Diffida PEC")
 {{< details title="Si può diffidare o essere diffidati via P.E.C.?">}}
-Sì. Una diffida ad adempiere inoltrata o ricevuta presso l’indirizzo ufficiale di P.E.C. risultante dai pubblici registri (REGINDE o INI.PEC) ha ex lege il medesimo valore di una formale diffida inoltrata o ricevuta tramite racc. a.r. presso la residenza (se persona fisica) o la sede legale (se persona giuridica).
+
+Sì, una diffida ad adempiere inoltrata o ricevuta presso l’indirizzo ufficiale di P.E.C. risultante dai pubblici registri (REGINDE o INI.PEC) ha ex lege il medesimo valore di una formale diffida inoltrata o ricevuta tramite racc. a.r. presso la residenza (se persona fisica) o la sede legale (se persona giuridica).
+
 Alla luce di quanto precede - poiché già la sola mera ricezione da parte del mittente degli avvisi di accettazione e della successiva conferma rendono legalmente perfezionato l’inoltro della P.E.C. nei confronti del destinatario (equivalendo a conoscibilità, senza rilevare de facto che quest’ultimo ne possa quindi avere avuto o meno l’effettiva conoscenza) - è onere di ogni singolo titolare monitorare quotidianamente l’eventuale indirizzo di P.E.C. assegnatogli dall’Amministrazione, al fine di evitare la maturazione di malaugurati effetti pregiudizievoli in danno dell’Ateneo.
 {{< /details >}}
 
@@ -166,6 +167,7 @@ Laddove vengano eseguite notifiche non regolari, le competenti strutture perifer
 [comment]: # (Redazione relazione istruttoria)
 {{< details title="Come deve essere redatta una relazione istruttoria richiesta dagli avvocati per la difesa dell’amministrazione in una causa?">}}
 All’atto del conferimento di un incarico, gli avvocati interni, in genere, provvedono a richiedere alla struttura dell’Ateneo a conoscenza dei fatti di causa la trasmissione di una relazione scritta, al fine di adempiere nel miglior modo al proprio mandato difensivo nell’interesse dell’Amministrazione.
+
 A tale scopo, è necessario che la relazione sia redatta dalla competente struttura nel modo più dettagliato possibile, indicando specificamente ed in maniera chiara i fatti di cui si discute, con l’allegazione di tutta la relativa documentazione atta a provare quanto sostenuto e con l’indicazione di eventuali testimoni disposti a confermare (in giudizio) quanto sostenuto dall’Amministrazione.
 {{< /details >}}
 
@@ -322,9 +324,12 @@ Una volta pagata la prima rata di iscrizione ogni singolo studente deve inviare 
 #### Recuperi
 [comment]: # ("OFA")
 {{< details title="Cosa sono gli OFA? Come si recuperano?">}}
-Gli studenti che non abbiano conseguito nella prova TOLC-I il punteggio minimo  dovranno assolvere entro il 31 ottobre dell’anno successivo  gli obblighi formativi aggiuntivi (OFA).
+Gli studenti che non abbiano conseguito nella prova TOLC-I il punteggio minimo dovranno assolvere entro il 31 ottobre dell’anno successivo gli obblighi formativi aggiuntivi (OFA).
+
 Per il recupero degli Obblighi Formativi Aggiuntivi le due Facoltà di Ingegneria
-organizzeranno dei precorsi di matematica in aula nelle due settimane antecedenti l’inizio delle lezioni. Sono anche a disposizione di tutti gli studenti in possesso delle credenziali di accesso a Infostud i “Precorsi di Matematica” in modalità e-learning. Si possono assolvere gli OFA anche attraverso la piattaforma UNITELMA, come specificato dalla Sapienza:
+organizzeranno dei precorsi di matematica in aula nelle due settimane antecedenti l’inizio delle lezioni. Sono anche a disposizione di tutti gli studenti in possesso delle credenziali di accesso a Infostud i “Precorsi di Matematica” in modalità e-learning.
+
+Si possono assolvere gli OFA anche attraverso la piattaforma UNITELMA, come specificato dalla Sapienza:
 https://www.uniroma1.it/it/pagina/obblighi-formativi-aggiuntivi-ofa
 {{< /details >}}
 
@@ -343,3 +348,5 @@ password: `Sapienza@2013`
 
 [comment]: # ("END OF SECTION === Informatica Teledidattica")
 {{< /details >}}
+
+---
