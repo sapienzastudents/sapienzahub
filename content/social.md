@@ -2,7 +2,7 @@
 description = "Pagina contenenti link ai gruppi social"
 title = "Link gruppi social"
 type = "post"
-date = "2021-09-17"
+date = "2021-09-29"
 +++
 
 # Gruppi Telegram
@@ -28,15 +28,23 @@ Se vuoi aggiungere il tuo gruppo, segui le [indicazioni in questa pagina!](/soci
 * [MARR - 19/20](https://telegram.me/SapienzaStudentsBot?start=f6a5afcc-6bd6-4a71-9eb8-f01f3d35e5c9)
 
 ## Computer Science - Informatica (Magistrale)
+* [Advanced Algorithms](https://telegram.me/SapienzaStudentsBot?start=6a93ff66-36ef-4543-8a15-db19f51636cc)
 * [Blockchain and distributed ledger technologies](https://telegram.me/SapienzaStudentsBot?start=6ec32d14-5af6-44be-bfa6-e89af2d078de)
 * [Computational Complexity](https://telegram.me/SapienzaStudentsBot?start=e081aafc-a916-4090-b0f8-e113c5ef4942)
 * [Computer Science Sapienza](https://telegram.me/SapienzaStudentsBot?start=1abaf589-e85c-4c6d-81d3-fc4b21df9b72)
+* [Computer Vision Course - Prof. Luigi Cinque](https://telegram.me/SapienzaStudentsBot?start=1c730a6f-7528-4193-b972-2422b25bf923)
+* [Concurrent Systems](https://telegram.me/SapienzaStudentsBot?start=bfa02443-2b26-4b76-8ce9-196879a867a1)
 * [Deep Learning & AI 2021](https://telegram.me/SapienzaStudentsBot?start=cb675cdb-c2ce-468a-8dfb-4f30b97f766b)
-* [Distributed Systems](https://telegram.me/SapienzaStudentsBot?start=4754399a-dc06-4299-bf42-b125c73f23cf)
 * [Elective in Networking & Systems](https://telegram.me/SapienzaStudentsBot?start=0ffb808e-3112-4638-82f2-bc15bce1c99d)
+* [Fundamental of Computer Graphics](https://telegram.me/SapienzaStudentsBot?start=c2f5d857-37f4-4d26-ad07-3fcc64a6662e)
 * [Graph Theory](https://telegram.me/SapienzaStudentsBot?start=535fa331-fb5f-4379-a5c7-35c9f225ac92)
+* [Information systems](https://telegram.me/SapienzaStudentsBot?start=85f1c88a-0410-459e-b74c-c1c9920fabd0)
+* [Intensive computation](https://telegram.me/SapienzaStudentsBot?start=fc3e57e2-a5aa-4fab-9d7a-d4f6c42c1afe)
 * [Multimodal Interaction 2021](https://telegram.me/SapienzaStudentsBot?start=5b4e6608-0db7-4059-8ceb-472b8c5316a8)
 * [[AUTONOMOUS NETWORKING]](https://telegram.me/SapienzaStudentsBot?start=1b7eaa30-b008-4858-addd-262ac6f89916)
+
+### 1st year
+* [Distributed Systems](https://telegram.me/SapienzaStudentsBot?start=4754399a-dc06-4299-bf42-b125c73f23cf)
 * [[Cloud Computing]](https://telegram.me/SapienzaStudentsBot?start=3ce8ae38-2637-47f7-b933-847692cdfa54)
 
 ## Cybersecurity
@@ -55,6 +63,13 @@ Se vuoi aggiungere il tuo gruppo, segui le [indicazioni in questa pagina!](/soci
 ## Engineering in computer science
 * [Engineering in Computer Science](https://telegram.me/SapienzaStudentsBot?start=9f6157a2-a0fd-420d-8a6e-c5366e17fd25)
 
+### 1⃣ Year
+* [Data Management](https://telegram.me/SapienzaStudentsBot?start=c2a3c1d4-596c-48c3-b920-4883ccf59dd0)
+
+### 2⃣ Year
+* [Large Scale Data Management](https://telegram.me/SapienzaStudentsBot?start=1fe5eab5-8531-4574-af75-55d9551cd84b)
+* [MACC](https://telegram.me/SapienzaStudentsBot?start=71ad2e6d-d4a6-4da9-89e9-b6c43167fb73)
+
 ## Gruppi generali Sapienza
 * [HackTheBox Sapienza](https://telegram.me/SapienzaStudentsBot?start=cfc38266-1d13-457b-8df4-acad8b1c3b17)
 * [Infostud Lab App](https://telegram.me/SapienzaStudentsBot?start=b2c040c1-79f1-4d87-a6c3-b7aed5a2a9b6)
@@ -66,8 +81,13 @@ Se vuoi aggiungere il tuo gruppo, segui le [indicazioni in questa pagina!](/soci
 * [Informatica Unitelma Sapienza - Teledidattica](https://telegram.me/SapienzaStudentsBot?start=1af348db-1d50-45d8-b47b-8907db8c0cf4)
 * [Ing. Sw. Unitelma](https://telegram.me/SapienzaStudentsBot?start=873d67c8-60e8-4465-a207-c18e6933c4ab)
 * [Spam Informatica Sapienza](https://telegram.me/SapienzaStudentsBot?start=80bdba13-5f8a-44b2-a122-01ee334e5b46)
+* [[i3s] Inglese](https://telegram.me/SapienzaStudentsBot?start=3511b936-2742-457b-a2d7-be3f7eae37d4)
 
 ### Primo anno
+* [Agoritmi Canale 1](https://telegram.me/SapienzaStudentsBot?start=4d414087-e8b4-490a-9c76-ab949197e010)
+* [Informatica 1° anno - A/L](https://telegram.me/SapienzaStudentsBot?start=1431aa72-cd61-4ffe-8277-ca9ec3419f4e)
+* [Informatica 1° anno - M/Z](https://telegram.me/SapienzaStudentsBot?start=e76e3acc-4d5b-41eb-adfa-023ce85272e1)
+* [Unitelma Informatica Primo Anno](https://telegram.me/SapienzaStudentsBot?start=b0fec035-ed6d-487a-a0fe-4b21bc9074f8)
 * [[i3s] Architetture Elaboratori](https://telegram.me/SapienzaStudentsBot?start=8dcc2816-13dc-4604-8d24-fec625be6696)
 * [[i3s] Differenziale](https://telegram.me/SapienzaStudentsBot?start=d84202c6-f89c-46e2-b6a7-0b3bf353da19)
 * [[i3s] Fondamenti di Programmazione](https://telegram.me/SapienzaStudentsBot?start=363b7924-92bc-4bc3-848e-003bf4d8b62e)
@@ -89,6 +109,7 @@ Se vuoi aggiungere il tuo gruppo, segui le [indicazioni in questa pagina!](/soci
 
 ### Terzo anno
 * [Modelli e ottimizzazione](https://telegram.me/SapienzaStudentsBot?start=7ea820f6-7000-4c27-bccd-e517cc86f2f8)
+* [Programmazione di Sistema](https://telegram.me/SapienzaStudentsBot?start=3f841c81-0a4e-4077-a7ad-42320ed6e465)
 * [[i3s] Automi Calcolabilità e Complessità](https://telegram.me/SapienzaStudentsBot?start=6731125d-8a02-498a-83fe-7585aa74619d)
 * [[i3s] Computer Graphics](https://telegram.me/SapienzaStudentsBot?start=784bd728-c21f-41a5-a6ea-0c3e125372c2)
 * [[i3s] Gamification](https://telegram.me/SapienzaStudentsBot?start=2c11ee3c-e583-4df3-b4a5-ed1dbd45b1b4)
@@ -103,9 +124,6 @@ Se vuoi aggiungere il tuo gruppo, segui le [indicazioni in questa pagina!](/soci
 * [[i3s] Sicurezza](https://telegram.me/SapienzaStudentsBot?start=d94aa0b6-9255-41b6-b4e3-5f99de9da345)
 * [[i3s] TPFI](https://telegram.me/SapienzaStudentsBot?start=eda93758-575f-4d9a-8d1a-b31c30561550)
 * [[i3s] Verifica Validazione Sistemi](https://telegram.me/SapienzaStudentsBot?start=1b134f44-8935-42f8-9782-c66a7f030a7a)
-
-## Informatica primo anno
-* [Unitelma Informatica Primo Anno](https://telegram.me/SapienzaStudentsBot?start=b0fec035-ed6d-487a-a0fe-4b21bc9074f8)
 
 ## Ingegneria Informatica e Automatica
 * [Ingegneria Informatica e Automatica](https://telegram.me/SapienzaStudentsBot?start=314546fa-b8bc-4e60-ada0-90096aec0a7a)
@@ -124,6 +142,7 @@ Se vuoi aggiungere il tuo gruppo, segui le [indicazioni in questa pagina!](/soci
 * [Fondamenti Informatica 2](https://telegram.me/SapienzaStudentsBot?start=dd2da1bf-a6de-4b3f-aa22-705f4a895fe3)
 * [Progettazione del Software](https://telegram.me/SapienzaStudentsBot?start=ed78fd96-31eb-44e6-8dbf-a55b14028320)
 * [Ricerca Operativa 2020](https://telegram.me/SapienzaStudentsBot?start=d0a7f5e5-2c62-41bf-a91f-8a996dcec0ad)
+* [Teoria dei Sistemi](https://telegram.me/SapienzaStudentsBot?start=cb55973e-0f7f-4c63-b33d-58f976ffb72b)
 
 ### Terzo anno
 * [Architetture Dei Calcolatori](https://telegram.me/SapienzaStudentsBot?start=1daada76-2a75-4fdc-ac09-f6c03dab9a61)
@@ -141,22 +160,22 @@ Se vuoi aggiungere il tuo gruppo, segui le [indicazioni in questa pagina!](/soci
 ## Matematica (triennale)
 * [Matematica Sapienza - Triennale](https://telegram.me/SapienzaStudentsBot?start=d74ff592-e698-4364-837e-bab45b58273e)
 ## Senza categoria
-* [Advanced Algorithms](https://telegram.me/SapienzaStudentsBot?start=6a93ff66-36ef-4543-8a15-db19f51636cc)
-* [Agoritmi Canale 1](https://telegram.me/SapienzaStudentsBot?start=4d414087-e8b4-490a-9c76-ab949197e010)
+* [Artificial Intelligence](https://telegram.me/SapienzaStudentsBot?start=aa742256-69fe-4795-9202-ff8bcbfbe37a)
 * [Basi Di Dati](https://telegram.me/SapienzaStudentsBot?start=4ff94437-fd89-4d4d-8424-511474877b12)
-* [Concurrent Systems](https://telegram.me/SapienzaStudentsBot?start=bfa02443-2b26-4b76-8ce9-196879a867a1)
 * [Control Methods for Cyber Physical Security](https://telegram.me/SapienzaStudentsBot?start=29e0fa73-38cb-43fa-9c07-66bb6c5736a3)
-* [Data Management](https://telegram.me/SapienzaStudentsBot?start=c2a3c1d4-596c-48c3-b920-4883ccf59dd0)
+* [Deep Learning](https://telegram.me/SapienzaStudentsBot?start=f844305c-a244-480d-adb2-665f4ce741b3)
 * [Distributed Systems](https://telegram.me/SapienzaStudentsBot?start=7fd2bbb3-d1ea-4ea1-9371-fb755888a011)
+* [ECS_WIP](https://telegram.me/SapienzaStudentsBot?start=27fa8b4e-a983-4cfd-9250-5017395997be)
 * [Elettronica](https://telegram.me/SapienzaStudentsBot?start=8a7d56eb-0047-4f90-a4f9-b62c989d4209)
+* [Foundamentals of Computer Graphics](https://telegram.me/SapienzaStudentsBot?start=e0c38d8f-6ac5-4c34-b3ba-372bbfab9f42)
 * [Human Computer Interaction on the Web](https://telegram.me/SapienzaStudentsBot?start=8baa6e69-1b2d-4389-a087-0e154dc9dd59)
-* [Information systems](https://telegram.me/SapienzaStudentsBot?start=85f1c88a-0410-459e-b74c-c1c9920fabd0)
-* [Intensive computation](https://telegram.me/SapienzaStudentsBot?start=fc3e57e2-a5aa-4fab-9d7a-d4f6c42c1afe)
+* [Ing inf 20/21 canale 1](https://telegram.me/SapienzaStudentsBot?start=69f4a156-1584-4ae0-a98d-61b8e3e405fa)
+* [Ing inf 20/21 canale 27](https://telegram.me/SapienzaStudentsBot?start=9fbe07c3-f780-4d77-84e4-41aa33c9dd7c)
+* [Interactive Graphics](https://telegram.me/SapienzaStudentsBot?start=17b1e8fc-d9aa-4adf-ac0e-dca1e928627a)
 * [Mathematical Logic for Computer Science](https://telegram.me/SapienzaStudentsBot?start=f9490f48-8a8d-4de5-86fd-e2d4bf2d2dce)
 * [PFP gennaio 2021](https://telegram.me/SapienzaStudentsBot?start=4178d245-c5b7-49c1-ae6b-42af63400f4a)
-* [Programmazione di Sistema](https://telegram.me/SapienzaStudentsBot?start=3f841c81-0a4e-4077-a7ad-42320ed6e465)
-* [Prova](https://telegram.me/SapienzaStudentsBot?start=1a0f3f0f-6382-42ab-83b4-72b82bb27a5e)
-* [SapienzaAdmins](https://telegram.me/SapienzaStudentsBot?start=b23a892d-cf64-4486-8921-ee80cb512391)
+* [Probabilistic Robotics](https://telegram.me/SapienzaStudentsBot?start=e2f7bafc-aa8c-48b7-92f1-05e87ee466ca)
+* [Robot Programming](https://telegram.me/SapienzaStudentsBot?start=7b890bc2-2b95-4816-afe4-e359640bac47)
+* [Robotics1](https://telegram.me/SapienzaStudentsBot?start=f2f31f33-ff81-4da6-8b6a-e2161f20d19b)
 * [Security Governance](https://telegram.me/SapienzaStudentsBot?start=f7c9358a-3b96-4737-9f1b-4a7563fa6918)
 * [Telecomunicazioni](https://telegram.me/SapienzaStudentsBot?start=cb6a19a5-7958-46f2-b04a-2609d59d1e0d)
-* [[i3s] Inglese](https://telegram.me/SapienzaStudentsBot?start=3511b936-2742-457b-a2d7-be3f7eae37d4)
