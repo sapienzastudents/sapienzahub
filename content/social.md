@@ -9,7 +9,11 @@ date = "2021-09-29"
 
 Qui di seguito trovi un indice di gruppi di studenti della Sapienza su Telegram. **Clicca su START dopo che si è aperto Telegram per avere il link**.
 
-Se vuoi aggiungere il tuo gruppo, segui le [indicazioni in questa pagina!](/social_add/)
+Per poter aggiungere il tuo gruppo alla lista presente su questo sito aggiungi il bot di Telegram [@SapienzaStudentsBot](https://t.me/SapienzaStudentsBot) al tuo gruppo e rendilo amministratore (per funzionare ha bisogno di tutti i permessi tranne di rimanere anonimo).
+
+Una miniguida è disponibile direttamente all'interno del bot se si preme `/start` o `/help`.
+
+Il sito viene aggiornato regolarmente e il link su questa pagina verrà automaticamente aggiornato.
 
 
 ## Applied Computer Science and Artificial Intelligence
