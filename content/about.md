@@ -17,4 +17,4 @@ Chi siamo e come contattarci:
 * [Andrea Gasparini](https://t.me/andreagasparini)
 * [Emanuele Petriglia](https://t.me/ema-pe)
 * [Enrico Bassetti](https://t.me/Enrico204)
-* [Damiano Gualandri](https://t.me/dag7)
+* [Damiano Gualandri](https://t.me/dag7d)

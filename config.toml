@@ -70,3 +70,8 @@ copyright = "My Name"
     name = "Chi Siamo"
     url = "/about/"
     weight = 7
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
