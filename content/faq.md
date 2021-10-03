@@ -11,9 +11,9 @@ Un elenco delle domande più richieste dagli studenti, divise per categoria e pe
 ---
 ## Informatica
 
-[Su questa pagina](https://www.studiareinformatica.uniroma1.it/) trovi tutte le informazioni sul corso di studio e nei link a sinistra della pagina:  il **regolamento** didattico, i **contenuti degli insegnamenti**, il **calendario didattico** per sapere come è organizzato il percorso di studi.
+Sulla pagina del sito web del [corso di studio di Informatica](https://www.studiareinformatica.uniroma1.it/) trovi tutte le informazioni sul corso insieme a diversi link nella barra laterale a sinistra: il **regolamento** didattico, i **contenuti degli insegnamenti**, il **calendario didattico** per sapere come è organizzato il percorso di studi.
 
-[Questa invece](https://www.studiareinformatica.uniroma1.it/teledidattica) è la pagina per la teledidattica.
+Per la teledidattica è presente una [pagina dedicata](https://www.studiareinformatica.uniroma1.it/teledidattica).
 
 [comment]: # (""")
 [comment]: # (Informatica Triennale)
