@@ -10,6 +10,7 @@
                     <a class="button-square button-jump-top js-jump-top" href="#">
                         <i class="fa fa-angle-up"></i>
                     </a>
+                    {{ partial "toggle.html" . }}
                 </div>
                 <p class="footer-copyright">Attenzione: il contenuto di questo sito è amatoriale e non sostuisce le fonti ufficiali!</p>
                 <p class="footer-copyright">Copyright &copy; {{ .Site.LastChange.Format "2006" }} / Generato con <a href="https://gohugo.io/">Hugo</a></p>
