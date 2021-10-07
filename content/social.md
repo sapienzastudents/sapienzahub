@@ -1,20 +1,17 @@
 +++
-description = "Pagina contenenti link ai gruppi social"
-title = "Link gruppi social"
+description = "Pagina contenenti i link ai gruppi Telegram"
+title = "Gruppi Telegram"
 type = "post"
-date = "2021-09-29"
+date = "2021-10-07"
 +++
 
 # Gruppi Telegram
 
-Qui di seguito trovi un indice di gruppi di studenti della Sapienza su Telegram. **Clicca su START dopo che si è aperto Telegram per avere il link**.
+In questa pagine trovi un elenco completo dei gruppi di studenti della Sapienza sulla piattaforma Telegram, utilizzati per aiutarci nei corsi, per ottenere informazion isulle lezioni o sugli esami, oppure per discutere sugli argomenti trattati.
 
-Per poter aggiungere il tuo gruppo alla lista presente su questo sito aggiungi il bot di Telegram [@SapienzaStudentsBot](https://t.me/SapienzaStudentsBot) al tuo gruppo e rendilo amministratore (per funzionare ha bisogno di tutti i permessi tranne di rimanere anonimo).
+Per entrare in un gruppo seleziona il link di quello interessato, quindi **clicca START** per ottenere un link d'invito tramite il nostro bot. Tutti i gruppi sono moderati e la violazione delle regole può comportare l'esclusione dal singolo gruppo o da tutti i gruppi della rete.
 
-Una miniguida è disponibile direttamente all'interno del bot se si preme `/start` o `/help`.
-
-Il sito viene aggiornato regolarmente e il link su questa pagina verrà automaticamente aggiornato.
-
+Questa pagina è aggiornata automaticamente con tutti i link d'invito per i gruppi che sono gestiti con il nostro bot Telegram [@SapienzaStudentsBot](https://t.me/SapienzaStudentsBot). Se vuoi **unire il tuo gruppo alla comunità** aggiungi il bot e rendilo amministratore (per funzionare ha bisogno di tutti i permessi tranne che di rimanere anonimo). Per maggiori informazioni contatta direttamente il bot inviando i comandi `/start` o `/help`.
 
 ## Applied Computer Science and Artificial Intelligence
 * [Applied Computer Science and Artificial Intelligence](https://telegram.me/SapienzaStudentsBot?start=ca466843-ab43-4f5d-a4f0-ec9a830aaa02)
