@@ -20,4 +20,4 @@ date = ""
 - [Gruppo Facebook](https://m.facebook.com/groups/informaticasapienza) ufficioso per gli studenti della facoltà
 - [Workspace Slack](https://ecssap.slack.com/) per gli studenti di Teledidattica "Unitelma"
 - [Pagina GitLab](https://gitlab.com/sapienzastudents/exercises) dove sono mantenuti esercitazioni
-- [Pagina GitLab](https://gitlab.com/sapienzastudents/papers) dove sono mantenuti gli appunti
+- [Pagina GitLab](https://gitlab.com/sapienzastudents/resources) dove sono mantenuti gli appunti
