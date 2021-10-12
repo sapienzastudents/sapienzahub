@@ -14,26 +14,12 @@
         {{ $style := resources.Get "scss/index.scss" | toCSS (dict "outputStyle" "compressed") | fingerprint }}
         <link rel="stylesheet" href="{{ $style.Permalink }}">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,600,700,300&subset=latin,cyrillic-ext,latin-ext,cyrillic">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     </head>
     <body>
         <div id="wrapper">
             <header class="site-header">
                 <div class="container">
-                    <div class="site-title-wrapper">
-                        <h1 class="site-title">
-                            <a title="{{ .Site.Title }}" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
-                        </h1>
-                        <a class="button-square button-social hint--top" data-hint="Gitlab" title="Gitlab" href="https://gitlab.com/sapienzastudents" rel="me">
-                            <i class="fa fa-gitlab"></i>
-                        </a>
-                        <a class="button-square button-social hint--top" data-hint="Email" title="Email" href="mailto:sapienzahub@gmail.com">
-                            <i class="fa fa-envelope"></i>
-                        </a>
-                        <a class="button-square button-social hint--top" data-hint="Telegram" title="Telegram" href="https://t.me/sapienzastudentsbot" rel="me">
-                            <i class="fa fa-telegram"></i>
-                        </a>
-                    </div>
                     <ul class="site-nav">
                         {{ partial "navigation.html" . }}
                     </ul>
