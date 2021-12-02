@@ -1,17 +1,16 @@
 +++
-description = "Pagina contenenti i link ai gruppi Telegram"
-title = "Gruppi Telegram"
+description = "Pagina contenenti link ai gruppi social"
+title = "Link gruppi social"
 type = "post"
-date = "2021-10-07"
+date = "2021-12-02"
 +++
 
 # Gruppi Telegram
 
-In questa pagine trovi un elenco completo dei gruppi di studenti della Sapienza sulla piattaforma Telegram, utilizzati per aiutarci nei corsi, per ottenere informazion isulle lezioni o sugli esami, oppure per discutere sugli argomenti trattati.
+Qui di seguito trovi un indice di gruppi di studenti della Sapienza su Telegram. **Clicca su START dopo che si è aperto Telegram per avere il link**.
 
-Per entrare in un gruppo seleziona il link di quello interessato, quindi **clicca START** per ottenere un link d'invito tramite il nostro bot. Tutti i gruppi sono moderati e la violazione delle regole può comportare l'esclusione dal singolo gruppo o da tutti i gruppi della rete.
+Se vuoi aggiungere il tuo gruppo, segui le [indicazioni in questa pagina!](/social_add/)
 
-Questa pagina è aggiornata automaticamente con tutti i link d'invito per i gruppi che sono gestiti con il nostro bot Telegram [@SapienzaStudentsBot](https://t.me/SapienzaStudentsBot). Se vuoi **unire il tuo gruppo alla comunità** aggiungi il bot e rendilo amministratore (per funzionare ha bisogno di tutti i permessi tranne che di rimanere anonimo). Per maggiori informazioni contatta direttamente il bot inviando i comandi `/start` o `/help`.
 
 ## Applied Computer Science and Artificial Intelligence
 * [Applied Computer Science and Artificial Intelligence](https://telegram.me/SapienzaStudentsBot?start=ca466843-ab43-4f5d-a4f0-ec9a830aaa02)
@@ -30,6 +29,7 @@ Questa pagina è aggiornata automaticamente con tutti i link d'invito per i grup
 
 ## Computer Science - Informatica (Magistrale)
 * [Advanced Algorithms](https://telegram.me/SapienzaStudentsBot?start=6a93ff66-36ef-4543-8a15-db19f51636cc)
+* [Bioinfor&Network Medicines](https://telegram.me/SapienzaStudentsBot?start=b32c0fa2-f9e5-4540-b910-b3c41fb1c313)
 * [Blockchain and distributed ledger technologies](https://telegram.me/SapienzaStudentsBot?start=6ec32d14-5af6-44be-bfa6-e89af2d078de)
 * [Computational Complexity](https://telegram.me/SapienzaStudentsBot?start=e081aafc-a916-4090-b0f8-e113c5ef4942)
 * [Computer Science Sapienza](https://telegram.me/SapienzaStudentsBot?start=1abaf589-e85c-4c6d-81d3-fc4b21df9b72)
@@ -73,22 +73,30 @@ Questa pagina è aggiornata automaticamente con tutti i link d'invito per i grup
 
 ## Gruppi generali Sapienza
 * [HackTheBox Sapienza](https://telegram.me/SapienzaStudentsBot?start=cfc38266-1d13-457b-8df4-acad8b1c3b17)
-* [Infostud Lab App](https://telegram.me/SapienzaStudentsBot?start=b2c040c1-79f1-4d87-a6c3-b7aed5a2a9b6)
+* [Sapienza - Off Topic](https://telegram.me/SapienzaStudentsBot?start=9738d2c2-96db-40a9-8ec7-5abfc93d4291)
 * [Sapienza - birra e politica](https://telegram.me/SapienzaStudentsBot?start=0a473ea8-9de7-4205-8a90-5f798ac471ee)
 * [Sapienza - discussioni generali](https://telegram.me/SapienzaStudentsBot?start=bc157ad6-1dcb-4512-ac31-8e4145b0798e)
+* [Sapienza Houses - Case & Alloggi](https://telegram.me/SapienzaStudentsBot?start=f29302e6-5807-43cb-b026-a61de575ccb6)
 
 ## Informatica (Triennale)
 * [Informatica Sapienza - Triennale](https://telegram.me/SapienzaStudentsBot?start=21310208-3060-404e-a448-f7b4cf997897)
 * [Informatica Unitelma Sapienza - Teledidattica](https://telegram.me/SapienzaStudentsBot?start=1af348db-1d50-45d8-b47b-8907db8c0cf4)
 * [Ing. Sw. Unitelma](https://telegram.me/SapienzaStudentsBot?start=873d67c8-60e8-4465-a207-c18e6933c4ab)
 * [Spam Informatica Sapienza](https://telegram.me/SapienzaStudentsBot?start=80bdba13-5f8a-44b2-a122-01ee334e5b46)
-* [[i3s] Inglese](https://telegram.me/SapienzaStudentsBot?start=3511b936-2742-457b-a2d7-be3f7eae37d4)
 
 ### Primo anno
 * [Agoritmi Canale 1](https://telegram.me/SapienzaStudentsBot?start=4d414087-e8b4-490a-9c76-ab949197e010)
 * [Informatica 1° anno - A/L](https://telegram.me/SapienzaStudentsBot?start=1431aa72-cd61-4ffe-8277-ca9ec3419f4e)
 * [Informatica 1° anno - M/Z](https://telegram.me/SapienzaStudentsBot?start=e76e3acc-4d5b-41eb-adfa-023ce85272e1)
 * [Unitelma Informatica Primo Anno](https://telegram.me/SapienzaStudentsBot?start=b0fec035-ed6d-487a-a0fe-4b21bc9074f8)
+* [[A/L] Calcolo Differenziale](https://telegram.me/SapienzaStudentsBot?start=dc9c8ea6-7757-4b47-947e-f9e96b053a77)
+* [[A/L] Fondamenti di Programmazione](https://telegram.me/SapienzaStudentsBot?start=a50d9f78-b262-4499-85ae-581fdcdb566d)
+* [[A/L] Metodi Matematici](https://telegram.me/SapienzaStudentsBot?start=5a3c1b8e-f244-4f76-81e3-97fcd60f755e)
+* [[A/L] Sistemi Digitali](https://telegram.me/SapienzaStudentsBot?start=5bbeeb5e-67ee-4ffb-8e57-06bfe203e254)
+* [[M/Z] Calcolo Differenziale](https://telegram.me/SapienzaStudentsBot?start=0754bdc2-52d7-4dcd-a862-ecb7225876bf)
+* [[M/Z] Fondamenti di Programmazione](https://telegram.me/SapienzaStudentsBot?start=efdbdc4b-c667-4634-95e1-c2da31472e5c)
+* [[M/Z] Metodi Matematici](https://telegram.me/SapienzaStudentsBot?start=358745e5-c4cf-4285-b669-e0fc7e9a3a1b)
+* [[M/Z] Sistemi Digitali](https://telegram.me/SapienzaStudentsBot?start=5157f5e1-b82d-4225-a746-b05ecb23a11c)
 * [[i3s] Architetture Elaboratori](https://telegram.me/SapienzaStudentsBot?start=8dcc2816-13dc-4604-8d24-fec625be6696)
 * [[i3s] Differenziale](https://telegram.me/SapienzaStudentsBot?start=d84202c6-f89c-46e2-b6a7-0b3bf353da19)
 * [[i3s] Fondamenti di Programmazione](https://telegram.me/SapienzaStudentsBot?start=363b7924-92bc-4bc3-848e-003bf4d8b62e)
@@ -120,6 +128,7 @@ Questa pagina è aggiornata automaticamente con tutti i link d'invito per i grup
 * [[i3s] Intelligenza Artificiale](https://telegram.me/SapienzaStudentsBot?start=25e021e7-8810-4e5b-bdf2-438dcee2fd56)
 * [[i3s] Linguaggi di Programmazione](https://telegram.me/SapienzaStudentsBot?start=d3b30801-5d30-489b-a6b5-c42688c898b4)
 * [[i3s] Linguaggi e Compilatori](https://telegram.me/SapienzaStudentsBot?start=6fa0dc1e-973f-4007-9235-702b6cd30438)
+* [[i3s] Matematica discreta](https://telegram.me/SapienzaStudentsBot?start=c53e4a9c-63e3-4141-81e3-bce5f0f4318f)
 * [[i3s] Multicore](https://telegram.me/SapienzaStudentsBot?start=5e452bd1-3ccc-4426-a96e-d2812a28b61f)
 * [[i3s] Programmazione Web](https://telegram.me/SapienzaStudentsBot?start=fa45b3bc-266c-432c-b841-ffb4541c1386)
 * [[i3s] Sicurezza](https://telegram.me/SapienzaStudentsBot?start=d94aa0b6-9255-41b6-b4e3-5f99de9da345)
@@ -143,40 +152,47 @@ Questa pagina è aggiornata automaticamente con tutti i link d'invito per i grup
 * [Fondamenti Informatica 2](https://telegram.me/SapienzaStudentsBot?start=dd2da1bf-a6de-4b3f-aa22-705f4a895fe3)
 * [Progettazione del Software](https://telegram.me/SapienzaStudentsBot?start=ed78fd96-31eb-44e6-8dbf-a55b14028320)
 * [Ricerca Operativa 2020](https://telegram.me/SapienzaStudentsBot?start=d0a7f5e5-2c62-41bf-a91f-8a996dcec0ad)
-* [Teoria dei Sistemi](https://telegram.me/SapienzaStudentsBot?start=cb55973e-0f7f-4c63-b33d-58f976ffb72b)
+* [Teoria dei Sistemi (Monaco)](https://telegram.me/SapienzaStudentsBot?start=cb55973e-0f7f-4c63-b33d-58f976ffb72b)
 
 ### Terzo anno
 * [Architetture Dei Calcolatori](https://telegram.me/SapienzaStudentsBot?start=1daada76-2a75-4fdc-ac09-f6c03dab9a61)
-* [Economia](https://telegram.me/SapienzaStudentsBot?start=2735bdb8-84cd-4ded-85b4-ff00b56f9bd2)
+* [Automazione](https://telegram.me/SapienzaStudentsBot?start=7734fd84-a595-4309-af71-2fd73bb39a51)
+* [Economia DePillow](https://telegram.me/SapienzaStudentsBot?start=2735bdb8-84cd-4ded-85b4-ff00b56f9bd2)
 * [Elettronica](https://telegram.me/SapienzaStudentsBot?start=eb635aa3-14a0-468a-a657-9f3cf5c8698c)
+* [Ing info anno 3](https://telegram.me/SapienzaStudentsBot?start=d1ad66d6-811d-49b4-9d3c-b55654b07b46)
 * [Lab. ASSI](https://telegram.me/SapienzaStudentsBot?start=0abb1f2e-3b69-4474-839c-f7b2269b5776)
 * [Lab. IAGI](https://telegram.me/SapienzaStudentsBot?start=e8e845b9-db16-4ae5-a77d-bdff41e6e799)
 * [Linguaggi e Tecnologie per il Web](https://telegram.me/SapienzaStudentsBot?start=da68d77d-c70d-477a-8283-3d44b4cd0b4f)
 * [Metodi Quantitativi per l'Informatica](https://telegram.me/SapienzaStudentsBot?start=f7b9f24b-ba12-41f7-8a62-d0b7166b5b14)
+* [Modellistica e Simulazione](https://telegram.me/SapienzaStudentsBot?start=41f3de3e-3546-4535-b619-f7fb82d96a37)
 * [Programmazione funzionale e parallela](https://telegram.me/SapienzaStudentsBot?start=2a0b40ba-5639-470e-96e5-768f75eb3fc5)
-* [Sistemi Operativi](https://telegram.me/SapienzaStudentsBot?start=25941988-b952-4170-9082-6d481a02f8c8)
-* [Sistemi di Calcolo 2](https://telegram.me/SapienzaStudentsBot?start=4ddebcb9-02f2-4237-b2c0-eb41723a5560)
+* [Sistemi di Halholo 2](https://telegram.me/SapienzaStudentsBot?start=4ddebcb9-02f2-4237-b2c0-eb41723a5560)
 * [TEST VCA](https://telegram.me/SapienzaStudentsBot?start=036e843e-ecfe-4790-a029-208fe98e1b0c)
 
 ## Matematica (triennale)
 * [Matematica Sapienza - Triennale](https://telegram.me/SapienzaStudentsBot?start=d74ff592-e698-4364-837e-bab45b58273e)
 ## Senza categoria
+* [ASVM](https://telegram.me/SapienzaStudentsBot?start=8e554354-40a3-4878-ba00-14a9ad398dd5)
 * [Artificial Intelligence](https://telegram.me/SapienzaStudentsBot?start=aa742256-69fe-4795-9202-ff8bcbfbe37a)
 * [Basi Di Dati](https://telegram.me/SapienzaStudentsBot?start=4ff94437-fd89-4d4d-8424-511474877b12)
+* [Basi di Dati](https://telegram.me/SapienzaStudentsBot?start=2c6441f4-d732-44ea-873c-bf57b535ab12)
+* [BiometricSystems🧬](https://telegram.me/SapienzaStudentsBot?start=20bab43f-8656-457b-92f1-34399549044d)
 * [Control Methods for Cyber Physical Security](https://telegram.me/SapienzaStudentsBot?start=29e0fa73-38cb-43fa-9c07-66bb6c5736a3)
 * [Deep Learning](https://telegram.me/SapienzaStudentsBot?start=f844305c-a244-480d-adb2-665f4ce741b3)
 * [Distributed Systems](https://telegram.me/SapienzaStudentsBot?start=7fd2bbb3-d1ea-4ea1-9371-fb755888a011)
 * [ECS_WIP](https://telegram.me/SapienzaStudentsBot?start=27fa8b4e-a983-4cfd-9250-5017395997be)
 * [Elettronica](https://telegram.me/SapienzaStudentsBot?start=8a7d56eb-0047-4f90-a4f9-b62c989d4209)
-* [Foundamentals of Computer Graphics](https://telegram.me/SapienzaStudentsBot?start=e0c38d8f-6ac5-4c34-b3ba-372bbfab9f42)
 * [Human Computer Interaction on the Web](https://telegram.me/SapienzaStudentsBot?start=8baa6e69-1b2d-4389-a087-0e154dc9dd59)
 * [Ing inf 20/21 canale 1](https://telegram.me/SapienzaStudentsBot?start=69f4a156-1584-4ae0-a98d-61b8e3e405fa)
 * [Ing inf 20/21 canale 27](https://telegram.me/SapienzaStudentsBot?start=9fbe07c3-f780-4d77-84e4-41aa33c9dd7c)
 * [Interactive Graphics](https://telegram.me/SapienzaStudentsBot?start=17b1e8fc-d9aa-4adf-ac0e-dca1e928627a)
+* [Karen Investment trade](https://telegram.me/SapienzaStudentsBot?start=331ac6a6-a966-4499-a1ef-140d6d3a1f34)
+* [MachineLearning💻](https://telegram.me/SapienzaStudentsBot?start=4725d06b-5b90-42db-9251-4dc91dd34680)
 * [Mathematical Logic for Computer Science](https://telegram.me/SapienzaStudentsBot?start=f9490f48-8a8d-4de5-86fd-e2d4bf2d2dce)
 * [PFP gennaio 2021](https://telegram.me/SapienzaStudentsBot?start=4178d245-c5b7-49c1-ae6b-42af63400f4a)
 * [Probabilistic Robotics](https://telegram.me/SapienzaStudentsBot?start=e2f7bafc-aa8c-48b7-92f1-05e87ee466ca)
 * [Robot Programming](https://telegram.me/SapienzaStudentsBot?start=7b890bc2-2b95-4816-afe4-e359640bac47)
-* [Robotics1](https://telegram.me/SapienzaStudentsBot?start=f2f31f33-ff81-4da6-8b6a-e2161f20d19b)
 * [Security Governance](https://telegram.me/SapienzaStudentsBot?start=f7c9358a-3b96-4737-9f1b-4a7563fa6918)
-* [Telecomunicazioni](https://telegram.me/SapienzaStudentsBot?start=cb6a19a5-7958-46f2-b04a-2609d59d1e0d)
+* [Sistemi Operativi](https://telegram.me/SapienzaStudentsBot?start=0f4de3dc-0d76-4640-ad7b-fc9bf7de0306)
+* [TeleCUOMOnicazioni feat Omegle](https://telegram.me/SapienzaStudentsBot?start=cb6a19a5-7958-46f2-b04a-2609d59d1e0d)
+* [Test Group](https://telegram.me/SapienzaStudentsBot?start=a8e69b8c-3b5f-4354-9d25-8652d81b7639)
