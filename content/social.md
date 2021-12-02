@@ -86,8 +86,6 @@ Se vuoi aggiungere il tuo gruppo, segui le [indicazioni in questa pagina!](/soci
 
 ### Primo anno
 * [Agoritmi Canale 1](https://telegram.me/SapienzaStudentsBot?start=4d414087-e8b4-490a-9c76-ab949197e010)
-* [Informatica 1° anno - A/L](https://telegram.me/SapienzaStudentsBot?start=1431aa72-cd61-4ffe-8277-ca9ec3419f4e)
-* [Informatica 1° anno - M/Z](https://telegram.me/SapienzaStudentsBot?start=e76e3acc-4d5b-41eb-adfa-023ce85272e1)
 * [Unitelma Informatica Primo Anno](https://telegram.me/SapienzaStudentsBot?start=b0fec035-ed6d-487a-a0fe-4b21bc9074f8)
 * [[A/L] Calcolo Differenziale](https://telegram.me/SapienzaStudentsBot?start=dc9c8ea6-7757-4b47-947e-f9e96b053a77)
 * [[A/L] Fondamenti di Programmazione](https://telegram.me/SapienzaStudentsBot?start=a50d9f78-b262-4499-85ae-581fdcdb566d)
@@ -186,7 +184,6 @@ Se vuoi aggiungere il tuo gruppo, segui le [indicazioni in questa pagina!](/soci
 * [Ing inf 20/21 canale 1](https://telegram.me/SapienzaStudentsBot?start=69f4a156-1584-4ae0-a98d-61b8e3e405fa)
 * [Ing inf 20/21 canale 27](https://telegram.me/SapienzaStudentsBot?start=9fbe07c3-f780-4d77-84e4-41aa33c9dd7c)
 * [Interactive Graphics](https://telegram.me/SapienzaStudentsBot?start=17b1e8fc-d9aa-4adf-ac0e-dca1e928627a)
-* [Karen Investment trade](https://telegram.me/SapienzaStudentsBot?start=331ac6a6-a966-4499-a1ef-140d6d3a1f34)
 * [MachineLearning💻](https://telegram.me/SapienzaStudentsBot?start=4725d06b-5b90-42db-9251-4dc91dd34680)
 * [Mathematical Logic for Computer Science](https://telegram.me/SapienzaStudentsBot?start=f9490f48-8a8d-4de5-86fd-e2d4bf2d2dce)
 * [PFP gennaio 2021](https://telegram.me/SapienzaStudentsBot?start=4178d245-c5b7-49c1-ae6b-42af63400f4a)
